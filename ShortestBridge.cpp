@@ -1,9 +1,10 @@
 #include <iostream>
 #include <deque>
 #include <vector>
+#include <utility>
 
 using std::cout,std::cin,std::endl;
-using std::deque,std::vector;
+using std::deque,std::vector,std::pair;
 
 namespace solution
 {
@@ -11,8 +12,11 @@ namespace solution
     {
         public:
             int minFlips;
-            vector<vector<int>> direction; //USING VECTORS BECAUSE MAP DOESNT SEEM TO WORK
-            deque<vector<int>> map;
+            vector<pair<int,int>> visited; //USING VECTORS BECAUSE MAP DOESNT SEEM TO WORK
+            vector<pair<int,int>> island;
+            deque<pair<int,int>> map;
+            vector<int> ri{+1,-1,0,0};
+            vector<int> ci{0,0,-1,+1};
 
             void printIsland(int (&island)[3][3]){
                 int row = sizeof(island)/sizeof(island[0]);
@@ -29,93 +33,70 @@ namespace solution
             int ShortestBridge(int (&island)[3][3]);
             void dfs(int (&island)[3][3],int row,int col);
             int bfs(int (&island)[3][3]);
-            int isInMap(int row,int col);
+            int isVisited(int row,int col,vector<pair<int,int>> temp);
     }; //class
 
     int Program::ShortestBridge(int (&island)[3][3]){
         int row = sizeof(island)/sizeof(island[0]);
-
-        for(int i=0 ; i<row ; i++){
-            for(int j=0 ; j<row ; j++){
-                dfs(island,i,j);
-                return bfs(island);
-            }
-        }
-
-        return 0;
+        dfs(island,0,0);
+        return bfs(island);
     }
-    void Program::dfs(int (&island)[3][3],int row,int col){
-        int grid = sizeof(island)/sizeof(island[0]);
 
+    void Program::dfs(int (&island)[3][3],int row,int col){
+        if( isVisited(row,col,this->visited) )
+            return;
+        this->visited.push_back( std::make_pair(row,col) );
+
+        int grid = sizeof(island)/sizeof(island[0]);
+        
         if(island[row][col] == 1){
-            this->map.push_back( {row,col} );
+            this->map.push_back( std::make_pair(row,col) );
         }
 
-        if(island[row][col] == 0)
-            return;
-        if( isInMap(row,col) )
-            return;
 
         if(row < grid)
             dfs(island,row+1,col);
-        if(row > 0)
-            dfs(island,row-1,col);
         if(col < grid)
             dfs(island,row,col+1);
-        if (col > 0)
-            dfs(island,row,col-1);
-
-        return;
     }
+
     int Program::bfs(int (&island)[3][3]){
         int result=0,currRow=0,currCol=0;
         int grid = sizeof(island)/sizeof(island[0]);
-        this->direction.push_back( {1,0} );
-        this->direction.push_back( {-1,0} );
-        this->direction.push_back( {0,1} );
-        this->direction.push_back( {0,-1} );
 
-        while( !this->map.empty() ){
+        while( !this->visited.empty() )
+            this->visited.pop_back();
+        
+        while( !this->map.empty() ){ //STARTING FROM AN ISLAND DO BFS
+            pair rowcol = this->map.front();
+            int r = rowcol.first;
+            int c = rowcol.second;
+            
+            //Perform BFS
+            for(int i=0 ; i<4 ; i++){
+                int currRow = r + ri[i];
+                int currCol = c + ci[i];
 
-            for(vector<int> vec: this->map){
-                int index=0;
-                for(int i : vec){
-                    if(index==0)
-                        currRow=i;
-                    else
-                        currCol=i;
-                    index++;
+                if(currRow>=0 && currRow<grid && currCol>=0 && currCol<grid && island[currRow][currCol]==0 && isVisited(currRow,currCol,this->visited)==0){
+                    this->visited.push_back({currRow,currCol});
                 }
-                this->map.pop_front();
-
-                for(vector<int> dir : this->direction){
-                    int index2=0,tempRow=0,tempCol=0;
-                    for(int j : dir){
-                        if(index2 == 0)
-                            tempRow = currRow + j;
-                        else
-                            tempCol = currCol + j;
-                    }
-                    if(tempRow < grid && tempRow > 0 && tempCol < grid && tempCol > 0 && )
-                }
-
+                else if(currRow>=0 && currRow<grid && currCol>=0 && currCol<grid && island[currRow][currCol]==1 && isVisited(currRow,currCol,this->visited)==0)
+                    continue;
             }
-
+            result++;
+            this->map.pop_front();
         }
         return result;
     }
-    int Program::isInMap(int row,int col){
+
+    int Program::isVisited(int row,int col,vector<pair<int,int>> temp){
         int index=0;
         int r,c;
-        for(vector<int> list : this->map){
-            for(int i : list){
-                if(index == 0)
-                    r = i;
-                else
-                    c = i;
-                if(r == row && c == col)
-                    return 1;
-                index++;
+        for(pair<int,int> list : temp){
+            r = list.first;
+            c = list.second;
+            if(r == row && c == col){
+                return 1;
             }
         }
         return 0;
@@ -129,5 +110,6 @@ int main(){
     solution::Program soln;
     soln.printIsland(island);
     int result = soln.ShortestBridge(island);
+    cout << result << endl;
     return 0;
 }
