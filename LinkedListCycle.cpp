@@ -36,10 +36,9 @@ namespace Solution {
     };
 
     bool LinkedList::hasCycle(Node* head){
-        for (Node* nodePtr=head; nodePtr!=NULL; nodePtr=nodePtr->next) {
-            this->checkList.push_back(nodePtr->id);
+        if (head != NULL) this->checkList.push_back(head->id);
+        for (Node* nodePtr=head; nodePtr!=NULL; nodePtr=nodePtr->next)
             if (checkInList(nodePtr->id)) return true;
-        }
         return false;
     }
 
@@ -70,8 +69,13 @@ namespace Solution {
     }
 
     bool LinkedList::checkInList(int value) {
-        for (auto it = this->checkList.begin(); it != this->checkList.end(); it++)
+        for (auto it = this->checkList.begin(); it != this->checkList.end(); it++) {
             if (*it == value) return true;
+            else {
+                this->checkList.push_back(value);
+                break;
+            }
+        }
         return false;
     }
 }
