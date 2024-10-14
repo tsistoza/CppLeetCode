@@ -93,8 +93,10 @@ void LinkedList::createLinkedList(LinkedList* list, string& result) {
 
 void LinkedList::ClearMem(LinkedList* list) {
     Node* prevNode = list->head;
-    for (Node* nodePtr=list->head->next; nodePtr != NULL; nodePtr=nodePtr->next)
+    for (Node* nodePtr=list->head->next; nodePtr != NULL; nodePtr=nodePtr->next) {
         delete prevNode;
+        prevNode = nodePtr;
+    }
     delete prevNode;
     delete list;
     return;
