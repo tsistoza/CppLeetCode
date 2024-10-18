@@ -15,7 +15,9 @@ class Solution {
         void createHashMap(unordered_map<int, vector<int>>& map, vector<int>& nums);
         void readMap(unordered_map<int, vector<int>>& map);
         void readResult(vector<vector<int>>& triplets);
-        pair<bool, int> checkRepeat(int index1, int index2, vector<int>& val);
+        pair<bool, int> checkIndex(int index1, int index2, vector<int>& val);
+        bool checkRepeat(vector<vector<int>>& triplets, vector<int>& triples);
+        bool vectorContainsInt(vector<int>& compare, int val);
 };
 
 vector<vector<int>> Solution::threeSum(vector<int>& nums) {
@@ -32,12 +34,13 @@ vector<vector<int>> Solution::threeSum(vector<int>& nums) {
             auto search = hashMap.find(index3);
             pair<bool,int> p;
             if (search != hashMap.end()) {
-                p = checkRepeat(i, j, search->second);
+                p = checkIndex(i, j, search->second);
                 if (p.first) {
                     triples.push_back(nums[i]);
                     triples.push_back(nums[j]);
                     triples.push_back(nums[p.second]);
-                    triplets.push_back(triples);
+                    if (!checkRepeat(triplets, triples))
+                        triplets.push_back(triples);
                     triples.clear();
                 }
             }
@@ -78,7 +81,7 @@ void Solution::readResult(vector<vector<int>>& triplets) {
     return;
 }
 
-pair<bool,int> Solution::checkRepeat(int index1, int index2, vector<int>& val) {
+pair<bool,int> Solution::checkIndex(int index1, int index2, vector<int>& val) {
     bool result;
     int value;
     for (vector<int>::iterator it=val.begin(); it!=val.end(); it++) {
@@ -94,6 +97,28 @@ pair<bool,int> Solution::checkRepeat(int index1, int index2, vector<int>& val) {
     pair<bool,int> p {result, value};
     return p;
 }
+
+bool Solution::checkRepeat(vector<vector<int>>& triplets, vector<int>& triples) {
+    bool flag = false;
+    for (auto it = triplets.begin(); it!=triplets.end(); it++) {
+        for(vector<int>::iterator it2=triples.begin(); it2!=triples.end(); it2++) {
+            if (this->vectorContainsInt(*it, *it2)) flag = true;
+            else {
+                flag = false;
+                break;
+            }
+        }
+        if(flag) break;
+    }
+    return flag;
+}
+
+bool Solution::vectorContainsInt(vector<int>& compare, int val) {
+    for (vector<int>::iterator it = compare.begin(); it!=compare.end(); it++)
+        if (*it == val) return true;
+    return false;
+}
+
 
 int main() {
     Solution object;
