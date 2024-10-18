@@ -26,11 +26,10 @@ vector<vector<int>> Solution::threeSum(vector<int>& nums) {
     vector<int> triples;
     unordered_map<int, vector<int>> hashMap;
     createHashMap(hashMap, nums);
-    readMap(hashMap);
+    //readMap(hashMap);
     for (int i=0 ;i<nums.size()-1 ;i++) {
         for (int j=i+1; j<nums.size()-1 ;j++) {
             int index3 = -nums[i]-nums[j];
-            cout << "i = " << nums[i] << " j = " << nums[j] << " k = " << index3 << endl;
             auto search = hashMap.find(index3);
             pair<bool,int> p;
             if (search != hashMap.end()) {
