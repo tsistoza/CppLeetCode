@@ -67,5 +67,6 @@ int main() {
     stack->pop();
     cout << "Top of Stack is: " << stack->top() << endl;
     cout << "Minimum number is: " << stack->getMin() << endl;
+    delete stack;
     return 0;
 }
