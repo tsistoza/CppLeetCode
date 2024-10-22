@@ -33,17 +33,20 @@ namespace Solution {
     };
 
     void LinkedList::insertNode(Node* newNode) {
+        // List Is Empty
         if (this->head == NULL) {
             this->head = newNode;
             return;
         }
 
+        // Prepend the Node
         if (newNode->id < this->head->id) {
             newNode->next = this->head;
             this->head = newNode;
             return;
         }
         
+        // Sort Node
         Node* prevNode = this->head;
         Node* nodePtr = this->head->next;
         for(; nodePtr!=NULL; nodePtr=nodePtr->next) {
@@ -55,6 +58,7 @@ namespace Solution {
             prevNode = prevNode->next;
         }
 
+        // Append The Node
         prevNode->next = newNode;
         return;
     }
