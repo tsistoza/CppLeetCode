@@ -102,7 +102,7 @@ int main() {
     obj->createBST();
     obj->readBST(obj->root);
     cout << endl;
-    cout << obj->kthLargestLevelSum(2);
+    cout << obj->kthLevelSum(2);
     obj->destroyBST(obj->root);
     delete obj;
     return 0;
