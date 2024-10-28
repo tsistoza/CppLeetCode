@@ -1,11 +1,10 @@
 #include <iostream>
 #include <vector>
 #include <cmath>
-#include <utility>
 
 using std::cout, std::cin, std::endl;
-using std::vector, std::sqrt, std::pair;
-using std::make_pair;
+using std::vector, std::sqrt;
+
 
 static vector<int> nums = {2, 3, 5, 6, 7};
 
