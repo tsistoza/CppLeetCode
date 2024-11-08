@@ -1,11 +1,10 @@
 // Leetcode 1761
 #include <iostream>
 #include <vector>
-#include <utility>
 #include <algorithm>
 
 using std::cout, std::endl;
-using std::vector, std::pair, std::make_pair;
+using std::vector;
 using std::sort;
 
 static vector<vector<int>> edges = { {1, 2}, {1, 3}, {3, 2}, {4, 1}, {5, 2}, {3, 6} };
