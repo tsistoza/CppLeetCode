@@ -22,7 +22,7 @@ namespace Solution {
         int shiftright = right;
         int numBits = (int)log2(right) + 1;
 
-        // Find the prefix that is the answer
+        // Find the common prefix between the two bits
         for(int i=0; i<numBits; i++) {
             if ((shiftleft & 1) == (shiftright & 1)) prefix.push_back(make_pair(shiftleft&1, i)); // push a pair, with its bit pos, and bit
             else prefix.clear();
@@ -31,7 +31,7 @@ namespace Solution {
         }
 
         for(vector<pair<int,int>>::iterator it=prefix.begin(); it!=prefix.end(); it++) // and then just calculate the sum of the bit
-            sum += pow(2, it->second);
+            sum += it->first * pow(2, it->second);
         return sum;
     }
 }
