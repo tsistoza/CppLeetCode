@@ -22,6 +22,7 @@ namespace Solution {
             if (i == derived.size()-1) {
                 int check = derived[i] ^ original[i];
                 if (original[0] != check) return false;
+                continue;
             }
             original[i+1] = derived[i] ^ original[i];
         }
