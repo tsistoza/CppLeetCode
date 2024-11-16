@@ -9,6 +9,10 @@ using std::vector, std::unordered_map;
 
 static vector<int> nums = { 1, 2, 3, 4, 3, 2, 5 };
 static int k = 3;
+static vector<int> nums1 = { 2, 2, 2, 2, 2 };
+static int k1 = 4;
+static vector<int> nums2 = { 3, 2, 3, 2, 3, 2 };
+static int k2 = 2;
 
 namespace Solution {
     class Program {
@@ -24,11 +28,9 @@ namespace Solution {
         this->getAllSubArrays(nums, allSubarrays, k);
 
         for(auto it=allSubarrays.begin(); it!=allSubarrays.end(); it++) {
-            int ans;
             unordered_map<int,int> map;
             for (vector<int>::iterator it2=it->begin(); it2!=it->end(); it2++) {
                 if (it2 == it->begin()) {
-                    ans = *it2;
                     map.insert({*it2, 1});
                     continue;
                 }
@@ -60,6 +62,12 @@ int main() {
     using namespace Solution;
     Program obj;
     for (int i : obj.resultsArray(nums, k))
+        cout << i << " ";
+    cout << endl;
+    for (int i : obj.resultsArray(nums1, k1))
+        cout << i << " ";
+    cout << endl;
+    for (int i : obj.resultsArray(nums2, k2))
         cout << i << " ";
     cout << endl;
     return 0;
