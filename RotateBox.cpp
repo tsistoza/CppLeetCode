@@ -76,18 +76,24 @@ namespace Solution {
 int main() {
     using namespace Solution;
     Program obj;
+    
+    //Test Case 1
     for(vector<char> row : obj.rotateTheBox(box)) {
         for (char ch : row)
             cout << ch << " ";
         cout << endl;
     }
     cout << endl;
+
+    //Test Case 2
     for(vector<char> row : obj.rotateTheBox(box1)) {
         for (char ch : row)
             cout << ch << " ";
         cout << endl;
     }
     cout << endl;
+
+    // Test Case 3
     for(vector<char> row : obj.rotateTheBox(box2)) {
         for (char ch : row)
             cout << ch << " ";
