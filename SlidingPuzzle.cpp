@@ -42,7 +42,7 @@ namespace Solution {
 
     int Program::slidingPuzzle(vector<vector<int>>& board) {
         pair<int, int> zeroPos;
-        unordered_map<string, int> visited; // map will store as visited[currentstate] = parentState
+        unordered_map<string, int> visited; // map will store as visited[currentstate] = amount of moves to currentState
         vector<vector<int>> currentBoard (board);
         queue< vector<vector<int>> > bfsQ;
         string target = "123450";
@@ -53,14 +53,14 @@ namespace Solution {
                 string start = "";
             }
         }
+
         bfsQ.push(currentBoard);
-        visited[this->Stringify(currentBoard)] = 0;
+        visited[this->Stringify(currentBoard)] = 0; // The amount of move to the currentBoard is zero because its starting board
         if (start == target) return 0;
 
-        int moves = 0;
         while (!bfsQ.empty()) {
-            currentBoard = bfsQ.front();
-            if (this->Stringify(bfsQ.front()) == target) break;
+            currentBoard = bfsQ.front(); // Set the new board to next in queue
+            if (this->Stringify(bfsQ.front()) == target) break; // if currentBoard matches target break and return its moves
 
             // Find Zero Position
             for(int i=0 ; i<currentBoard.size(); i++)
@@ -71,10 +71,13 @@ namespace Solution {
             BFS(bfsQ, currentBoard, zeroPos, visited);
             bfsQ.pop();
         }
+
+        // It never finds the target
         if (!visited.contains(target)) return -1;
         return visited[target];
     }
 
+    // Turn the board into a string (this allows us to compare very easily)
     string Program::Stringify(vector<vector<int>>& board) {
         string s = "";
         for(int i=0 ; i<board.size(); i++)
@@ -122,6 +125,7 @@ namespace Solution {
         return;
     }
 
+    // Swap based on direction and zero pos
     void Program::Swap(vector<vector<int>>& currentBoard, vector<vector<int>>& tempBoard, pair<int,int> zeroPos, Direction dir) {
         // dir = 1, -1 swap down or up
         // dir = 2, -2 swap left or right
