@@ -84,7 +84,7 @@ namespace Solution {
         return s;
     }
 
-    // Queue Child Nodes of the currentNode
+    // Queue Child Nodes of the currentBoard
     void Program::BFS(queue< vector<vector<int>> >& bfsQ, vector<vector<int>>& currentBoard, pair<int,int> zeroPos, unordered_map<string, int>& visited)
     {
         vector<vector<int>> tempBoard (currentBoard);
