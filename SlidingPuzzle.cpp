@@ -71,13 +71,11 @@ namespace Solution {
             BFS(bfsQ, currentBoard, zeroPos, visited);
             bfsQ.pop();
         }
-
-        // It never finds the target
         if (!visited.contains(target)) return -1;
         return visited[target];
     }
 
-    // Turn the board into a string (this allows us to compare very easily)
+    // Turns board into string (allows for easy comparison)
     string Program::Stringify(vector<vector<int>>& board) {
         string s = "";
         for(int i=0 ; i<board.size(); i++)
@@ -86,6 +84,7 @@ namespace Solution {
         return s;
     }
 
+    // Queue Child Nodes of the currentNode
     void Program::BFS(queue< vector<vector<int>> >& bfsQ, vector<vector<int>>& currentBoard, pair<int,int> zeroPos, unordered_map<string, int>& visited)
     {
         vector<vector<int>> tempBoard (currentBoard);
