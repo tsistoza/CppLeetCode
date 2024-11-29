@@ -1,12 +1,10 @@
 // LeetCode 73
 #include <iostream>
 #include <vector>
-#include <unordered_map>
 #include <utility>
 
 using std::cout, std::endl;
-using std::vector, std::unordered_map;
-using std::pair, std::make_pair;
+using std::vector, std::pair;
 
 static vector<vector<int>> matrix { {1, 1, 1}, {1, 0, 1}, {1, 1, 1} };
 static vector<vector<int>> matrix1 { {0, 1, 2, 0}, {3, 4, 5, 2}, {1, 3, 1, 5} };
