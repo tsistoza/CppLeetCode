@@ -22,6 +22,7 @@ As well as familiarize myself with algorithms not already known to me.
 | 1760 | [Link](https://github.com/tsistoza/CppLeetCode/blob/25548936f9cd91776f981d8bd6a063fed3b6ed73/MinBallSplit.cpp) |
 | 1985 | [Link](https://github.com/tsistoza/CppLeetCode/blob/6174fe11989226ad4ca244dc54e77c51a859e0c1/KthLargestInt.cpp) |
 | 2109 | [Link](https://github.com/tsistoza/CppLeetCode/blob/e3f63d1c95e9603cf91b91ea795965e094e5518d/AddSpacesString.cpp) |
+| 2231 | [Link]() |
 | 2337 | [Link](https://github.com/tsistoza/CppLeetCode/blob/a80dcb70aa759110e08e3d65a2cf6e16164b775e/MovePiecesString.cpp) |
 | 2386 | [Link](https://github.com/tsistoza/CppLeetCode/blob/080fd64ee249565a899958454e1345671f30664f/FindKSum.cpp) |
 | 2558 | [Link](https://github.com/tsistoza/CppLeetCode/blob/546944f1b8341547a3911c6641096cd2cf79b5af/TakeGifts.cpp) |
