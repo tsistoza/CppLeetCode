@@ -40,10 +40,12 @@ As well as familiarize myself with algorithms not already known to me.
 | 2461 | [Link](https://github.com/tsistoza/CppLeetCode/blob/df71f68e223e4f8fdecf14bc2148d0c92183c4f5/MaximumSubarrayswithK.cpp) |
 | 2471 | [Link](https://github.com/tsistoza/CppLeetCode/blob/50c3d3d16bc58717f35009a7f0f3ff32f73f7799/MinNumOper.cpp) |
 | 2558 | [Link](https://github.com/tsistoza/CppLeetCode/blob/546944f1b8341547a3911c6641096cd2cf79b5af/TakeGifts.cpp) |
+| 2559 | [Link](https://github.com/tsistoza/CppLeetCode/blob/18beb3d6ed1100045cefa778060166424cb21803/CountVowel.cpp) |
 | 2593 | [Link](https://github.com/tsistoza/CppLeetCode/blob/5045adbc30a447f4c6b0661a896c93be09cf4124/ScoreArray.cpp) |
 | 2779 | [Link](https://github.com/tsistoza/CppLeetCode/blob/eabb8b8393eb370ce199d4aa086b0c557edd82f2/MaxBeautyAfterOp.cpp) |
 | 2848 | [Link](https://github.com/tsistoza/CppLeetCode/blob/ff21761113340b1e8d8d173c0302a35d0447e57b/CarIntersection.cpp) |
 | 2924 | [Link](https://github.com/tsistoza/CppLeetCode/blob/a767d88a626a0bfe85d11cafce33c5422148021f/FindChampionII.cpp) |
+| 2952 | [Link](https://github.com/tsistoza/CppLeetCode/blob/1ee15631869da66d823a38a1bc5d535c91444d5c/MinCoinInsert.cpp) |
 | 2946 | [Link](https://github.com/tsistoza/CppLeetCode/blob/5b5d81c22c05c8d4b8b1332b6f479b737cb74974/MatrixCycleK.cpp) |
 | 3152 | [Link](https://github.com/tsistoza/CppLeetCode/blob/24213932e22e90b43cecb65b2d05dbbc2a563b96/SpecialArrayII.cpp) |
 | 3203 | [Link](https://github.com/tsistoza/CppLeetCode/blob/33cc5d4deb32e5e966212d887caf1376be0b8efd/MinDiameterMerge.cpp) |
