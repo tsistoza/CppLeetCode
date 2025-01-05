@@ -7,6 +7,7 @@
 using std::cout, std::endl;
 using std::string, std::unordered_map;
 
+
 static string s = "aabca";
 static string s1 = "adc";
 static string s2 = "bbcbaba";
