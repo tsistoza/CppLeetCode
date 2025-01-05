@@ -23,6 +23,7 @@ As well as familiarize myself with algorithms not already known to me.
 | 732 | [Link](https://github.com/tsistoza/CppLeetCode/blob/6cb4c4a781a2103f3a8537d55282668d0a0154a5/MyCalendarIII.cpp) |
 | 773 | [Link](https://github.com/tsistoza/CppLeetCode/blob/fed04894aa2d11844d349d7a0531d26b76c3cc30/SlidingPuzzle.cpp) |
 | 862 | [Link](https://github.com/tsistoza/CppLeetCode/blob/21945f293e967eb63a78f3688407cf286b71de54/ShortestSubarraywithK.cpp) |
+| 1320 | [Link](https://github.com/tsistoza/CppLeetCode/blob/4b2971ebc2de2d47baea676832606d910f02a0ae/MinDistWord.cpp) |
 | 1455 | [Link](https://github.com/tsistoza/CppLeetCode/blob/a2932ebcdd6f1dfaa2cca96238f2f84d97603985/IsPrefixOfWord.cpp) |
 | 1475 | [Link](https://github.com/tsistoza/CppLeetCode/blob/16878745d75a9b1f20ff5e7c609c0a21450888b6/FinalPrices.cpp) |
 | 1493 | [Link](https://github.com/tsistoza/CppLeetCode/blob/fb370f139e61c7204ce93fe64429b32b09b66c8f/LongestSubArr.cpp) |
@@ -31,6 +32,7 @@ As well as familiarize myself with algorithms not already known to me.
 | 1760 | [Link](https://github.com/tsistoza/CppLeetCode/blob/25548936f9cd91776f981d8bd6a063fed3b6ed73/MinBallSplit.cpp) |
 | 1861 | [Link](https://github.com/tsistoza/CppLeetCode/blob/bb67ffa667c001a52002105d09bd78598153f218/RotateBox.cpp) |
 | 1893 | [Link](https://github.com/tsistoza/CppLeetCode/blob/876e4b19d953f2e1bc7b3693e31f8abf9080a824/IntegerCovered.cpp) |
+| 1930 | [Link](https://github.com/tsistoza/CppLeetCode/blob/673a52d0af4fc102eff643803dbb0bb3cdc7be98/PalindromicSubseq.cpp) |
 | 1985 | [Link](https://github.com/tsistoza/CppLeetCode/blob/6174fe11989226ad4ca244dc54e77c51a859e0c1/KthLargestInt.cpp) |
 | 2109 | [Link](https://github.com/tsistoza/CppLeetCode/blob/e3f63d1c95e9603cf91b91ea795965e094e5518d/AddSpacesString.cpp) |
 | 2231 | [Link](https://github.com/tsistoza/CppLeetCode/blob/195223289f8067d24fdabd5a93d24bebd6913fc7/DigitSwap.cpp) |
