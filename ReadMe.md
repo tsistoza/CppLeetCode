@@ -23,7 +23,9 @@ As well as familiarize myself with algorithms not already known to me.
 | 732 | [Link](https://github.com/tsistoza/CppLeetCode/blob/6cb4c4a781a2103f3a8537d55282668d0a0154a5/MyCalendarIII.cpp) |
 | 773 | [Link](https://github.com/tsistoza/CppLeetCode/blob/fed04894aa2d11844d349d7a0531d26b76c3cc30/SlidingPuzzle.cpp) |
 | 862 | [Link](https://github.com/tsistoza/CppLeetCode/blob/21945f293e967eb63a78f3688407cf286b71de54/ShortestSubarraywithK.cpp) |
+| 1235 | [Link](https://github.com/tsistoza/CppLeetCode/blob/9e47bac29aa2481dbb521c4d1a5bd8a327d3753c/MaximumProfit.cpp) |
 | 1320 | [Link](https://github.com/tsistoza/CppLeetCode/blob/4b2971ebc2de2d47baea676832606d910f02a0ae/MinDistWord.cpp) |
+| 1408 | [Link](https://github.com/tsistoza/CppLeetCode/blob/5cd04ddb3a3b87a0d8aa46f8e2681c53e540bde6/StringMatching.cpp) |
 | 1455 | [Link](https://github.com/tsistoza/CppLeetCode/blob/a2932ebcdd6f1dfaa2cca96238f2f84d97603985/IsPrefixOfWord.cpp) |
 | 1475 | [Link](https://github.com/tsistoza/CppLeetCode/blob/16878745d75a9b1f20ff5e7c609c0a21450888b6/FinalPrices.cpp) |
 | 1493 | [Link](https://github.com/tsistoza/CppLeetCode/blob/fb370f139e61c7204ce93fe64429b32b09b66c8f/LongestSubArr.cpp) |
