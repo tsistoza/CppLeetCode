@@ -12,6 +12,7 @@ As well as familiarize myself with algorithms not already known to me.
 | LeetCode # | Link                              |
 | :---       |                               ---:|
 | 11 | [Link](https://github.com/tsistoza/CppLeetCode/blob/3f82324cbc4711e84c9789c448b9b1f208ced4c9/ContainerWater.cpp) |
+| 22 | [Link](https://github.com/tsistoza/CppLeetCode/blob/c403c2205f66f91f6195b3cee16d209c2ab8e453/GenerateParethesis.cpp) |
 | 54 | [Link](https://github.com/tsistoza/CppLeetCode/blob/5d7438df993e7d3156c2fc8005b9b1b69ff66ba9/SpiralMatrix.cpp) |
 | 73 | [Link](https://github.com/tsistoza/CppLeetCode/blob/939835b4c612d91f3d901e1d10acfc55d5016b37/MatrixZeroes.cpp) |
 | 76 | [Link](https://github.com/tsistoza/CppLeetCode/blob/69230b960c05d5f90174f8bd2365bd9ac7a5384f/MinWindowSubstring.cpp) |
@@ -37,6 +38,7 @@ As well as familiarize myself with algorithms not already known to me.
 | 1930 | [Link](https://github.com/tsistoza/CppLeetCode/blob/673a52d0af4fc102eff643803dbb0bb3cdc7be98/PalindromicSubseq.cpp) |
 | 1985 | [Link](https://github.com/tsistoza/CppLeetCode/blob/6174fe11989226ad4ca244dc54e77c51a859e0c1/KthLargestInt.cpp) |
 | 2109 | [Link](https://github.com/tsistoza/CppLeetCode/blob/e3f63d1c95e9603cf91b91ea795965e094e5518d/AddSpacesString.cpp) |
+| 2185 | [Link](https://github.com/tsistoza/CppLeetCode/blob/2b082fd44b6e003ce1762237e832976fa02eeeab/CountingWordsPrefix.cpp) |
 | 2231 | [Link](https://github.com/tsistoza/CppLeetCode/blob/195223289f8067d24fdabd5a93d24bebd6913fc7/DigitSwap.cpp) |
 | 2257 | [Link](https://github.com/tsistoza/CppLeetCode/blob/ad4a8b1813ee08aa62253f4f5ae9bc7b76960950/CountUnguarded.cpp) |
 | 2337 | [Link](https://github.com/tsistoza/CppLeetCode/blob/a80dcb70aa759110e08e3d65a2cf6e16164b775e/MovePiecesString.cpp) |
