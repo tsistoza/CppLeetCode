@@ -13,6 +13,7 @@ As well as familiarize myself with algorithms not already known to me.
 | :---       |                               ---:|
 | 11 | [Link](https://github.com/tsistoza/CppLeetCode/blob/3f82324cbc4711e84c9789c448b9b1f208ced4c9/ContainerWater.cpp) |
 | 22 | [Link](https://github.com/tsistoza/CppLeetCode/blob/c403c2205f66f91f6195b3cee16d209c2ab8e453/GenerateParethesis.cpp) |
+| 45 | [Link](https://github.com/tsistoza/CppLeetCode/blob/9660a373e3b25300a9a6bba6bd755bc524260bbe/JumpGameII.cpp) |
 | 54 | [Link](https://github.com/tsistoza/CppLeetCode/blob/5d7438df993e7d3156c2fc8005b9b1b69ff66ba9/SpiralMatrix.cpp) |
 | 73 | [Link](https://github.com/tsistoza/CppLeetCode/blob/939835b4c612d91f3d901e1d10acfc55d5016b37/MatrixZeroes.cpp) |
 | 76 | [Link](https://github.com/tsistoza/CppLeetCode/blob/69230b960c05d5f90174f8bd2365bd9ac7a5384f/MinWindowSubstring.cpp) |
@@ -30,6 +31,7 @@ As well as familiarize myself with algorithms not already known to me.
 | 1455 | [Link](https://github.com/tsistoza/CppLeetCode/blob/a2932ebcdd6f1dfaa2cca96238f2f84d97603985/IsPrefixOfWord.cpp) |
 | 1475 | [Link](https://github.com/tsistoza/CppLeetCode/blob/16878745d75a9b1f20ff5e7c609c0a21450888b6/FinalPrices.cpp) |
 | 1493 | [Link](https://github.com/tsistoza/CppLeetCode/blob/fb370f139e61c7204ce93fe64429b32b09b66c8f/LongestSubArr.cpp) |
+| 1577 | [Link](https://github.com/tsistoza/CppLeetCode/blob/ec87c8a42ad9dbb2a2e7419e533baee3b8d82b78/NumTriplets.cpp)
 | 1608 | [Link](https://github.com/tsistoza/CppLeetCode/blob/b02321d7faf9765d7f68e4cf0fd43cbf101779a8/ArrayGtXLt.cpp) |
 | 1639 | [Link](https://github.com/tsistoza/CppLeetCode/blob/fefbaaa9dca6de096c508b13440509f72e7dbcf6/numWaysFrom.cpp) |
 | 1760 | [Link](https://github.com/tsistoza/CppLeetCode/blob/25548936f9cd91776f981d8bd6a063fed3b6ed73/MinBallSplit.cpp) |
