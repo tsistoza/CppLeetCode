@@ -31,7 +31,7 @@ As well as familiarize myself with algorithms not already known to me.
 | 1455 | [Link](https://github.com/tsistoza/CppLeetCode/blob/a2932ebcdd6f1dfaa2cca96238f2f84d97603985/IsPrefixOfWord.cpp) |
 | 1475 | [Link](https://github.com/tsistoza/CppLeetCode/blob/16878745d75a9b1f20ff5e7c609c0a21450888b6/FinalPrices.cpp) |
 | 1493 | [Link](https://github.com/tsistoza/CppLeetCode/blob/fb370f139e61c7204ce93fe64429b32b09b66c8f/LongestSubArr.cpp) |
-| 1577 | [Link](https://github.com/tsistoza/CppLeetCode/blob/ec87c8a42ad9dbb2a2e7419e533baee3b8d82b78/NumTriplets.cpp)
+| 1577 | [Link](https://github.com/tsistoza/CppLeetCode/blob/ec87c8a42ad9dbb2a2e7419e533baee3b8d82b78/NumTriplets.cpp) |
 | 1608 | [Link](https://github.com/tsistoza/CppLeetCode/blob/b02321d7faf9765d7f68e4cf0fd43cbf101779a8/ArrayGtXLt.cpp) |
 | 1639 | [Link](https://github.com/tsistoza/CppLeetCode/blob/fefbaaa9dca6de096c508b13440509f72e7dbcf6/numWaysFrom.cpp) |
 | 1760 | [Link](https://github.com/tsistoza/CppLeetCode/blob/25548936f9cd91776f981d8bd6a063fed3b6ed73/MinBallSplit.cpp) |
