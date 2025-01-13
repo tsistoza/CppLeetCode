@@ -17,6 +17,7 @@ As well as familiarize myself with algorithms not already known to me.
 | 54 | [Link](https://github.com/tsistoza/CppLeetCode/blob/5d7438df993e7d3156c2fc8005b9b1b69ff66ba9/SpiralMatrix.cpp) |
 | 73 | [Link](https://github.com/tsistoza/CppLeetCode/blob/939835b4c612d91f3d901e1d10acfc55d5016b37/MatrixZeroes.cpp) |
 | 76 | [Link](https://github.com/tsistoza/CppLeetCode/blob/69230b960c05d5f90174f8bd2365bd9ac7a5384f/MinWindowSubstring.cpp) |
+| 81 | [Link](https://github.com/tsistoza/CppLeetCode/blob/3d0c9630c5453b52c7279cb9a248433ad6a0e14f/SearchRotatedArr.cpp) |
 | 105 | [Link](https://github.com/tsistoza/CppLeetCode/blob/7247e1a6e008207702d87cae2df98594c620128c/BuildBT.cpp) |
 | 139 | [Link](https://github.com/tsistoza/CppLeetCode/blob/56eb31840b2877d8a08c0d326bbf7f5eed5f76b3/WordBreak.cpp) |
 | 423 | [Link](https://github.com/tsistoza/CppLeetCode/blob/fb89bc000009ac5acdc2e87573ab25ce818bab3b/ReconstructDigit.cpp) |
@@ -57,6 +58,7 @@ As well as familiarize myself with algorithms not already known to me.
 | 2946 | [Link](https://github.com/tsistoza/CppLeetCode/blob/5b5d81c22c05c8d4b8b1332b6f479b737cb74974/MatrixCycleK.cpp) |
 | 3152 | [Link](https://github.com/tsistoza/CppLeetCode/blob/24213932e22e90b43cecb65b2d05dbbc2a563b96/SpecialArrayII.cpp) |
 | 3203 | [Link](https://github.com/tsistoza/CppLeetCode/blob/33cc5d4deb32e5e966212d887caf1376be0b8efd/MinDiameterMerge.cpp) |
+| 3223 | [Link](https://github.com/tsistoza/CppLeetCode/blob/af650224e27ab1464721595710fd946771bb7d43/MinLengthStrOps.cpp) |
 | 3243 | [Link](https://github.com/tsistoza/CppLeetCode/blob/f3923735a155517c68aab34bcae5e817dc820526/ShortestDistRoad.cpp) |
 | 3254 | [WIP]() |
 | 3300 | [Link](https://github.com/tsistoza/CppLeetCode/blob/5b02e94cb7ee1d5459a32c5bae67b6ccd0e2a619/DigitReplacement.cpp) |
