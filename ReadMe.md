@@ -46,6 +46,8 @@ As well as familiarize myself with algorithms not already known to me.
 | 2257 | [Link](https://github.com/tsistoza/CppLeetCode/blob/ad4a8b1813ee08aa62253f4f5ae9bc7b76960950/CountUnguarded.cpp) |
 | 2337 | [Link](https://github.com/tsistoza/CppLeetCode/blob/a80dcb70aa759110e08e3d65a2cf6e16164b775e/MovePiecesString.cpp) |
 | 2386 | [Link](https://github.com/tsistoza/CppLeetCode/blob/080fd64ee249565a899958454e1345671f30664f/FindKSum.cpp) |
+| 2419 | [Link](https://github.com/tsistoza/CppLeetCode/blob/17be93223fbc8a78c919b51690eb69fb1c846c28/MaxBitwiseAnd.cpp) |
+| 2429 | [Link](https://github.com/tsistoza/CppLeetCode/blob/75bbd9266c03db3afd224c1661e9911e8615425c/MinXor.cpp) |
 | 2461 | [Link](https://github.com/tsistoza/CppLeetCode/blob/df71f68e223e4f8fdecf14bc2148d0c92183c4f5/MaximumSubarrayswithK.cpp) |
 | 2471 | [Link](https://github.com/tsistoza/CppLeetCode/blob/50c3d3d16bc58717f35009a7f0f3ff32f73f7799/MinNumOper.cpp) |
 | 2558 | [Link](https://github.com/tsistoza/CppLeetCode/blob/546944f1b8341547a3911c6641096cd2cf79b5af/TakeGifts.cpp) |
