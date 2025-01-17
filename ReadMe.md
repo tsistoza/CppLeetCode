@@ -40,6 +40,7 @@ As well as familiarize myself with algorithms not already known to me.
 | 1893 | [Link](https://github.com/tsistoza/CppLeetCode/blob/876e4b19d953f2e1bc7b3693e31f8abf9080a824/IntegerCovered.cpp) |
 | 1930 | [Link](https://github.com/tsistoza/CppLeetCode/blob/673a52d0af4fc102eff643803dbb0bb3cdc7be98/PalindromicSubseq.cpp) |
 | 1985 | [Link](https://github.com/tsistoza/CppLeetCode/blob/6174fe11989226ad4ca244dc54e77c51a859e0c1/KthLargestInt.cpp) |
+| 2032 | [Link](https://github.com/tsistoza/CppLeetCode/blob/bcfaea34ceb1385955891b70ab63f611a23bd347/TwoOutOfThree.cpp) |
 | 2109 | [Link](https://github.com/tsistoza/CppLeetCode/blob/e3f63d1c95e9603cf91b91ea795965e094e5518d/AddSpacesString.cpp) |
 | 2185 | [Link](https://github.com/tsistoza/CppLeetCode/blob/2b082fd44b6e003ce1762237e832976fa02eeeab/CountingWordsPrefix.cpp) |
 | 2231 | [Link](https://github.com/tsistoza/CppLeetCode/blob/195223289f8067d24fdabd5a93d24bebd6913fc7/DigitSwap.cpp) |
@@ -63,4 +64,5 @@ As well as familiarize myself with algorithms not already known to me.
 | 3223 | [Link](https://github.com/tsistoza/CppLeetCode/blob/af650224e27ab1464721595710fd946771bb7d43/MinLengthStrOps.cpp) |
 | 3243 | [Link](https://github.com/tsistoza/CppLeetCode/blob/f3923735a155517c68aab34bcae5e817dc820526/ShortestDistRoad.cpp) |
 | 3254 | [WIP]() |
+| 3280 | [Link](https://github.com/tsistoza/CppLeetCode/blob/222299e65c85b5e161d60ad29d9c84780f6d7c71/DateToBinary.cpp) |
 | 3300 | [Link](https://github.com/tsistoza/CppLeetCode/blob/5b02e94cb7ee1d5459a32c5bae67b6ccd0e2a619/DigitReplacement.cpp) |
