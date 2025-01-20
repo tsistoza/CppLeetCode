@@ -20,6 +20,7 @@ As well as familiarize myself with algorithms not already known to me.
 | 81 | [Link](https://github.com/tsistoza/CppLeetCode/blob/3d0c9630c5453b52c7279cb9a248433ad6a0e14f/SearchRotatedArr.cpp) |
 | 105 | [Link](https://github.com/tsistoza/CppLeetCode/blob/7247e1a6e008207702d87cae2df98594c620128c/BuildBT.cpp) |
 | 139 | [Link](https://github.com/tsistoza/CppLeetCode/blob/56eb31840b2877d8a08c0d326bbf7f5eed5f76b3/WordBreak.cpp) |
+| 407 | [Link](https://github.com/tsistoza/CppLeetCode/blob/a5ab41679bca732a42fe4dd8fecbb17a29ed620a/RainWaterII.cpp) |
 | 423 | [Link](https://github.com/tsistoza/CppLeetCode/blob/fb89bc000009ac5acdc2e87573ab25ce818bab3b/ReconstructDigit.cpp) |
 | 676 | [Link](https://github.com/tsistoza/CppLeetCode/blob/a19c4d0d25ca79d66b117979a4d5f5390b82cc1c/MagicDictionary.cpp) |
 | 724 | [Link](https://github.com/tsistoza/CppLeetCode/blob/17896dbcca2152c8600885579c16c28c03a32a96/PivotIndex.cpp) |
@@ -54,6 +55,7 @@ As well as familiarize myself with algorithms not already known to me.
 | 2558 | [Link](https://github.com/tsistoza/CppLeetCode/blob/546944f1b8341547a3911c6641096cd2cf79b5af/TakeGifts.cpp) |
 | 2559 | [Link](https://github.com/tsistoza/CppLeetCode/blob/18beb3d6ed1100045cefa778060166424cb21803/CountVowel.cpp) |
 | 2593 | [Link](https://github.com/tsistoza/CppLeetCode/blob/5045adbc30a447f4c6b0661a896c93be09cf4124/ScoreArray.cpp) |
+| 2661 | [Link](https://github.com/tsistoza/CppLeetCode/blob/9657a447727a200f86167dba60afa4a0df2b2b14/PaintTheCells.cpp) |
 | 2779 | [Link](https://github.com/tsistoza/CppLeetCode/blob/eabb8b8393eb370ce199d4aa086b0c557edd82f2/MaxBeautyAfterOp.cpp) |
 | 2848 | [Link](https://github.com/tsistoza/CppLeetCode/blob/ff21761113340b1e8d8d173c0302a35d0447e57b/CarIntersection.cpp) |
 | 2924 | [Link](https://github.com/tsistoza/CppLeetCode/blob/a767d88a626a0bfe85d11cafce33c5422148021f/FindChampionII.cpp) |
