@@ -20,16 +20,9 @@ namespace Solution {
     class Program {
         private:
             void countNums(vector<int>& nums, unordered_map<int,int>& count);
-            void duplicate(unordered_map<int, int>& count, unordered_map<int,int> temp);
         public:
             vector<int> twoOutOfThree(vector<int>& nums1, vector<int>& nums2, vector<int>& nums3);
     };
-
-    void Program::duplicate(unordered_map<int,int>& count, unordered_map<int,int> temp) {
-        for (unordered_map<int,int>::iterator it=temp.begin(); it!=temp.end(); it++)
-            if (count.contains(it->first)) count[it->first]++; 
-        return;
-    }
 
     void Program::countNums(vector<int>& nums, unordered_map<int,int>& count) {
         unordered_map<int,int> temp;
