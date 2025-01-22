@@ -22,6 +22,7 @@ As well as familiarize myself with algorithms not already known to me.
 | 139 | [Link](https://github.com/tsistoza/CppLeetCode/blob/56eb31840b2877d8a08c0d326bbf7f5eed5f76b3/WordBreak.cpp) |
 | 407 | [Link](https://github.com/tsistoza/CppLeetCode/blob/a5ab41679bca732a42fe4dd8fecbb17a29ed620a/RainWaterII.cpp) |
 | 423 | [Link](https://github.com/tsistoza/CppLeetCode/blob/fb89bc000009ac5acdc2e87573ab25ce818bab3b/ReconstructDigit.cpp) |
+| 632 | [Link]() |
 | 676 | [Link](https://github.com/tsistoza/CppLeetCode/blob/a19c4d0d25ca79d66b117979a4d5f5390b82cc1c/MagicDictionary.cpp) |
 | 724 | [Link](https://github.com/tsistoza/CppLeetCode/blob/17896dbcca2152c8600885579c16c28c03a32a96/PivotIndex.cpp) |
 | 732 | [Link](https://github.com/tsistoza/CppLeetCode/blob/6cb4c4a781a2103f3a8537d55282668d0a0154a5/MyCalendarIII.cpp) |
@@ -37,6 +38,7 @@ As well as familiarize myself with algorithms not already known to me.
 | 1608 | [Link](https://github.com/tsistoza/CppLeetCode/blob/b02321d7faf9765d7f68e4cf0fd43cbf101779a8/ArrayGtXLt.cpp) |
 | 1639 | [Link](https://github.com/tsistoza/CppLeetCode/blob/fefbaaa9dca6de096c508b13440509f72e7dbcf6/numWaysFrom.cpp) |
 | 1760 | [Link](https://github.com/tsistoza/CppLeetCode/blob/25548936f9cd91776f981d8bd6a063fed3b6ed73/MinBallSplit.cpp) |
+| 1765 | [Link]() |
 | 1861 | [Link](https://github.com/tsistoza/CppLeetCode/blob/bb67ffa667c001a52002105d09bd78598153f218/RotateBox.cpp) |
 | 1893 | [Link](https://github.com/tsistoza/CppLeetCode/blob/876e4b19d953f2e1bc7b3693e31f8abf9080a824/IntegerCovered.cpp) |
 | 1930 | [Link](https://github.com/tsistoza/CppLeetCode/blob/673a52d0af4fc102eff643803dbb0bb3cdc7be98/PalindromicSubseq.cpp) |
