@@ -77,6 +77,7 @@ namespace Solution {
                 }
                 it++;
             }
+            currHeight++;
         }
 
         prettyPrintArr(result);
