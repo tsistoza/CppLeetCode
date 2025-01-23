@@ -38,7 +38,7 @@ As well as familiarize myself with algorithms not already known to me.
 | 1608 | [Link](https://github.com/tsistoza/CppLeetCode/blob/b02321d7faf9765d7f68e4cf0fd43cbf101779a8/ArrayGtXLt.cpp) |
 | 1639 | [Link](https://github.com/tsistoza/CppLeetCode/blob/fefbaaa9dca6de096c508b13440509f72e7dbcf6/numWaysFrom.cpp) |
 | 1760 | [Link](https://github.com/tsistoza/CppLeetCode/blob/25548936f9cd91776f981d8bd6a063fed3b6ed73/MinBallSplit.cpp) |
-| 1765 | [Link](https://github.com/tsistoza/CppLeetCode/blob/f2747748a9581dbd1e070d7bad58b7fbef886100/MapPeak.cpp) |
+| 1765 | [Link](https://github.com/tsistoza/CppLeetCode/blob/2e09ebb3278c4683276e4edc7f460e130168df9c/MapPeak.cpp) |
 | 1861 | [Link](https://github.com/tsistoza/CppLeetCode/blob/bb67ffa667c001a52002105d09bd78598153f218/RotateBox.cpp) |
 | 1893 | [Link](https://github.com/tsistoza/CppLeetCode/blob/876e4b19d953f2e1bc7b3693e31f8abf9080a824/IntegerCovered.cpp) |
 | 1930 | [Link](https://github.com/tsistoza/CppLeetCode/blob/673a52d0af4fc102eff643803dbb0bb3cdc7be98/PalindromicSubseq.cpp) |
