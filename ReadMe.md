@@ -27,6 +27,7 @@ As well as familiarize myself with algorithms not already known to me.
 | 724 | [Link](https://github.com/tsistoza/CppLeetCode/blob/17896dbcca2152c8600885579c16c28c03a32a96/PivotIndex.cpp) |
 | 732 | [Link](https://github.com/tsistoza/CppLeetCode/blob/6cb4c4a781a2103f3a8537d55282668d0a0154a5/MyCalendarIII.cpp) |
 | 773 | [Link](https://github.com/tsistoza/CppLeetCode/blob/fed04894aa2d11844d349d7a0531d26b76c3cc30/SlidingPuzzle.cpp) |
+| 802 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SafeStates.cpp) |
 | 862 | [Link](https://github.com/tsistoza/CppLeetCode/blob/21945f293e967eb63a78f3688407cf286b71de54/ShortestSubarraywithK.cpp) |
 | 1235 | [Link](https://github.com/tsistoza/CppLeetCode/blob/9e47bac29aa2481dbb521c4d1a5bd8a327d3753c/MaximumProfit.cpp) |
 | 1320 | [Link](https://github.com/tsistoza/CppLeetCode/blob/4b2971ebc2de2d47baea676832606d910f02a0ae/MinDistWord.cpp) |
