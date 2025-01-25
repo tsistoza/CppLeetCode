@@ -62,6 +62,7 @@ As well as familiarize myself with algorithms not already known to me.
 | 2779 | [Link](https://github.com/tsistoza/CppLeetCode/blob/eabb8b8393eb370ce199d4aa086b0c557edd82f2/MaxBeautyAfterOp.cpp) |
 | 2848 | [Link](https://github.com/tsistoza/CppLeetCode/blob/ff21761113340b1e8d8d173c0302a35d0447e57b/CarIntersection.cpp) |
 | 2924 | [Link](https://github.com/tsistoza/CppLeetCode/blob/a767d88a626a0bfe85d11cafce33c5422148021f/FindChampionII.cpp) |
+| 2948 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SmallestArray.cpp) |
 | 2952 | [Link](https://github.com/tsistoza/CppLeetCode/blob/1ee15631869da66d823a38a1bc5d535c91444d5c/MinCoinInsert.cpp) |
 | 2946 | [Link](https://github.com/tsistoza/CppLeetCode/blob/5b5d81c22c05c8d4b8b1332b6f479b737cb74974/MatrixCycleK.cpp) |
 | 3152 | [Link](https://github.com/tsistoza/CppLeetCode/blob/24213932e22e90b43cecb65b2d05dbbc2a563b96/SpecialArrayII.cpp) |
