@@ -41,7 +41,7 @@ As well as familiarize myself with algorithms not already known to me.
 | 1639 | [Link](https://github.com/tsistoza/CppLeetCode/blob/fefbaaa9dca6de096c508b13440509f72e7dbcf6/numWaysFrom.cpp) |
 | 1760 | [Link](https://github.com/tsistoza/CppLeetCode/blob/25548936f9cd91776f981d8bd6a063fed3b6ed73/MinBallSplit.cpp) |
 | 1765 | [Link](https://github.com/tsistoza/CppLeetCode/blob/2e09ebb3278c4683276e4edc7f460e130168df9c/MapPeak.cpp) |
-| 1813 | [Link]() |
+| 1813 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SentenceSimilarityIII.cpp) |
 | 1861 | [Link](https://github.com/tsistoza/CppLeetCode/blob/bb67ffa667c001a52002105d09bd78598153f218/RotateBox.cpp) |
 | 1893 | [Link](https://github.com/tsistoza/CppLeetCode/blob/876e4b19d953f2e1bc7b3693e31f8abf9080a824/IntegerCovered.cpp) |
 | 1930 | [Link](https://github.com/tsistoza/CppLeetCode/blob/673a52d0af4fc102eff643803dbb0bb3cdc7be98/PalindromicSubseq.cpp) |
@@ -70,7 +70,7 @@ As well as familiarize myself with algorithms not already known to me.
 | 2948 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SmallestArray.cpp) |
 | 2952 | [Link](https://github.com/tsistoza/CppLeetCode/blob/1ee15631869da66d823a38a1bc5d535c91444d5c/MinCoinInsert.cpp) |
 | 2946 | [Link](https://github.com/tsistoza/CppLeetCode/blob/5b5d81c22c05c8d4b8b1332b6f479b737cb74974/MatrixCycleK.cpp) |
-| 3151 | [Link]() |
+| 3151 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SpecialArrayI.cpp) |
 | 3152 | [Link](https://github.com/tsistoza/CppLeetCode/blob/24213932e22e90b43cecb65b2d05dbbc2a563b96/SpecialArrayII.cpp) |
 | 3203 | [Link](https://github.com/tsistoza/CppLeetCode/blob/33cc5d4deb32e5e966212d887caf1376be0b8efd/MinDiameterMerge.cpp) |
 | 3223 | [Link](https://github.com/tsistoza/CppLeetCode/blob/af650224e27ab1464721595710fd946771bb7d43/MinLengthStrOps.cpp) |
