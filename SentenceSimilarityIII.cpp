@@ -54,7 +54,10 @@ namespace Solution {
                 continue;
             }
 
-            if (smallerSubstring != bigger.substr(i, smaller.size()-j)) continue;
+            if (smallerSubstring != bigger.substr(i, smaller.size()-j)) {
+                windowSize++;
+                continue;
+            }
             break;
         }
 
