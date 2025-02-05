@@ -31,6 +31,7 @@ As well as familiarize myself with algorithms not already known to me.
 | 802 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SafeStates.cpp) |
 | 862 | [Link](https://github.com/tsistoza/CppLeetCode/blob/21945f293e967eb63a78f3688407cf286b71de54/ShortestSubarraywithK.cpp) |
 | 1235 | [Link](https://github.com/tsistoza/CppLeetCode/blob/9e47bac29aa2481dbb521c4d1a5bd8a327d3753c/MaximumProfit.cpp) |
+| 1281 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SubSumInteger.cpp) |
 | 1320 | [Link](https://github.com/tsistoza/CppLeetCode/blob/4b2971ebc2de2d47baea676832606d910f02a0ae/MinDistWord.cpp) |
 | 1408 | [Link](https://github.com/tsistoza/CppLeetCode/blob/5cd04ddb3a3b87a0d8aa46f8e2681c53e540bde6/StringMatching.cpp) |
 | 1455 | [Link](https://github.com/tsistoza/CppLeetCode/blob/a2932ebcdd6f1dfaa2cca96238f2f84d97603985/IsPrefixOfWord.cpp) |
@@ -41,6 +42,7 @@ As well as familiarize myself with algorithms not already known to me.
 | 1639 | [Link](https://github.com/tsistoza/CppLeetCode/blob/fefbaaa9dca6de096c508b13440509f72e7dbcf6/numWaysFrom.cpp) |
 | 1760 | [Link](https://github.com/tsistoza/CppLeetCode/blob/25548936f9cd91776f981d8bd6a063fed3b6ed73/MinBallSplit.cpp) |
 | 1765 | [Link](https://github.com/tsistoza/CppLeetCode/blob/2e09ebb3278c4683276e4edc7f460e130168df9c/MapPeak.cpp) |
+| 1790 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/StringSwap.cpp) |
 | 1813 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SentenceSimilarityIII.cpp) |
 | 1861 | [Link](https://github.com/tsistoza/CppLeetCode/blob/bb67ffa667c001a52002105d09bd78598153f218/RotateBox.cpp) |
 | 1893 | [Link](https://github.com/tsistoza/CppLeetCode/blob/876e4b19d953f2e1bc7b3693e31f8abf9080a824/IntegerCovered.cpp) |
