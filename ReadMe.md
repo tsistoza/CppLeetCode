@@ -30,6 +30,7 @@ As well as familiarize myself with algorithms not already known to me.
 | 773 | [Link](https://github.com/tsistoza/CppLeetCode/blob/fed04894aa2d11844d349d7a0531d26b76c3cc30/SlidingPuzzle.cpp) |
 | 802 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SafeStates.cpp) |
 | 862 | [Link](https://github.com/tsistoza/CppLeetCode/blob/21945f293e967eb63a78f3688407cf286b71de54/ShortestSubarraywithK.cpp) |
+| 909 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SnakesNLadders.cpp) |
 | 1235 | [Link](https://github.com/tsistoza/CppLeetCode/blob/9e47bac29aa2481dbb521c4d1a5bd8a327d3753c/MaximumProfit.cpp) |
 | 1281 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SubSumInteger.cpp) |
 | 1320 | [Link](https://github.com/tsistoza/CppLeetCode/blob/4b2971ebc2de2d47baea676832606d910f02a0ae/MinDistWord.cpp) |
@@ -55,6 +56,7 @@ As well as familiarize myself with algorithms not already known to me.
 | 2257 | [Link](https://github.com/tsistoza/CppLeetCode/blob/ad4a8b1813ee08aa62253f4f5ae9bc7b76960950/CountUnguarded.cpp) |
 | 2276 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountDigitIntervals.cpp) |
 | 2337 | [Link](https://github.com/tsistoza/CppLeetCode/blob/a80dcb70aa759110e08e3d65a2cf6e16164b775e/MovePiecesString.cpp) |
+| 2364 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountBadPairs.cpp) |
 | 2386 | [Link](https://github.com/tsistoza/CppLeetCode/blob/080fd64ee249565a899958454e1345671f30664f/FindKSum.cpp) |
 | 2419 | [Link](https://github.com/tsistoza/CppLeetCode/blob/17be93223fbc8a78c919b51690eb69fb1c846c28/MaxBitwiseAnd.cpp) |
 | 2429 | [Link](https://github.com/tsistoza/CppLeetCode/blob/75bbd9266c03db3afd224c1661e9911e8615425c/MinXor.cpp) |
