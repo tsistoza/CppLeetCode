@@ -31,6 +31,7 @@ As well as familiarize myself with algorithms not already known to me.
 | 802 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SafeStates.cpp) |
 | 862 | [Link](https://github.com/tsistoza/CppLeetCode/blob/21945f293e967eb63a78f3688407cf286b71de54/ShortestSubarraywithK.cpp) |
 | 909 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SnakesNLadders.cpp) |
+| 983 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/TrainTickets.cpp) |
 | 1235 | [Link](https://github.com/tsistoza/CppLeetCode/blob/9e47bac29aa2481dbb521c4d1a5bd8a327d3753c/MaximumProfit.cpp) |
 | 1281 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SubSumInteger.cpp) |
 | 1320 | [Link](https://github.com/tsistoza/CppLeetCode/blob/4b2971ebc2de2d47baea676832606d910f02a0ae/MinDistWord.cpp) |
@@ -74,6 +75,7 @@ As well as familiarize myself with algorithms not already known to me.
 | 2948 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SmallestArray.cpp) |
 | 2952 | [Link](https://github.com/tsistoza/CppLeetCode/blob/1ee15631869da66d823a38a1bc5d535c91444d5c/MinCoinInsert.cpp) |
 | 2946 | [Link](https://github.com/tsistoza/CppLeetCode/blob/5b5d81c22c05c8d4b8b1332b6f479b737cb74974/MatrixCycleK.cpp) |
+| 3066 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ThresholdValueII.cpp) |
 | 3151 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SpecialArrayI.cpp) |
 | 3152 | [Link](https://github.com/tsistoza/CppLeetCode/blob/24213932e22e90b43cecb65b2d05dbbc2a563b96/SpecialArrayII.cpp) |
 | 3203 | [Link](https://github.com/tsistoza/CppLeetCode/blob/33cc5d4deb32e5e966212d887caf1376be0b8efd/MinDiameterMerge.cpp) |
