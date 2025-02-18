@@ -14,10 +14,12 @@ As well as familiarize myself with algorithms not already known to me.
 | 11 | [Link](https://github.com/tsistoza/CppLeetCode/blob/3f82324cbc4711e84c9789c448b9b1f208ced4c9/ContainerWater.cpp) |
 | 22 | [Link](https://github.com/tsistoza/CppLeetCode/blob/c403c2205f66f91f6195b3cee16d209c2ab8e453/GenerateParethesis.cpp) |
 | 45 | [Link](https://github.com/tsistoza/CppLeetCode/blob/9660a373e3b25300a9a6bba6bd755bc524260bbe/JumpGameII.cpp) |
+| 46 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/Permutations.cpp) |
 | 54 | [Link](https://github.com/tsistoza/CppLeetCode/blob/5d7438df993e7d3156c2fc8005b9b1b69ff66ba9/SpiralMatrix.cpp) |
 | 73 | [Link](https://github.com/tsistoza/CppLeetCode/blob/939835b4c612d91f3d901e1d10acfc55d5016b37/MatrixZeroes.cpp) |
 | 76 | [Link](https://github.com/tsistoza/CppLeetCode/blob/69230b960c05d5f90174f8bd2365bd9ac7a5384f/MinWindowSubstring.cpp) |
 | 81 | [Link](https://github.com/tsistoza/CppLeetCode/blob/3d0c9630c5453b52c7279cb9a248433ad6a0e14f/SearchRotatedArr.cpp) |
+| 90 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SubsetsII.cpp) |
 | 105 | [Link](https://github.com/tsistoza/CppLeetCode/blob/7247e1a6e008207702d87cae2df98594c620128c/BuildBT.cpp) |
 | 139 | [Link](https://github.com/tsistoza/CppLeetCode/blob/56eb31840b2877d8a08c0d326bbf7f5eed5f76b3/WordBreak.cpp) |
 | 407 | [Link](https://github.com/tsistoza/CppLeetCode/blob/a5ab41679bca732a42fe4dd8fecbb17a29ed620a/RainWaterII.cpp) |
