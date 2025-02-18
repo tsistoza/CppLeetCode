@@ -25,8 +25,10 @@ namespace Solution {
         for (int i=0; i<results.size(); i++) {
             if (results[i].size() != subset.size()) continue;
             int k=0;
-            for (int j=0; j<results[i].size(); j++)
+            for (int j=0; j<results[i].size(); j++) {
                 if (subset[k] == results[i][j]) k++;
+                else break;
+            }
             if (k==subset.size()) return true;
         }
         return false;
