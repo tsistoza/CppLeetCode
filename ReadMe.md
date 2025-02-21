@@ -35,12 +35,14 @@ As well as familiarize myself with algorithms not already known to me.
 | 909 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SnakesNLadders.cpp) |
 | 983 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/TrainTickets.cpp) |
 | 1235 | [Link](https://github.com/tsistoza/CppLeetCode/blob/9e47bac29aa2481dbb521c4d1a5bd8a327d3753c/MaximumProfit.cpp) |
+| 1261 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ContaminatedBT.cpp) |
 | 1281 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SubSumInteger.cpp) |
 | 1320 | [Link](https://github.com/tsistoza/CppLeetCode/blob/4b2971ebc2de2d47baea676832606d910f02a0ae/MinDistWord.cpp) |
 | 1408 | [Link](https://github.com/tsistoza/CppLeetCode/blob/5cd04ddb3a3b87a0d8aa46f8e2681c53e540bde6/StringMatching.cpp) |
 | 1455 | [Link](https://github.com/tsistoza/CppLeetCode/blob/a2932ebcdd6f1dfaa2cca96238f2f84d97603985/IsPrefixOfWord.cpp) |
 | 1475 | [Link](https://github.com/tsistoza/CppLeetCode/blob/16878745d75a9b1f20ff5e7c609c0a21450888b6/FinalPrices.cpp) |
 | 1493 | [Link](https://github.com/tsistoza/CppLeetCode/blob/fb370f139e61c7204ce93fe64429b32b09b66c8f/LongestSubArr.cpp) |
+| 1574 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/RemoveSubarraySort.cpp) |
 | 1577 | [Link](https://github.com/tsistoza/CppLeetCode/blob/ec87c8a42ad9dbb2a2e7419e533baee3b8d82b78/NumTriplets.cpp) |
 | 1608 | [Link](https://github.com/tsistoza/CppLeetCode/blob/b02321d7faf9765d7f68e4cf0fd43cbf101779a8/ArrayGtXLt.cpp) |
 | 1639 | [Link](https://github.com/tsistoza/CppLeetCode/blob/fefbaaa9dca6de096c508b13440509f72e7dbcf6/numWaysFrom.cpp) |
