@@ -33,6 +33,7 @@ As well as familiarize myself with algorithms not already known to me.
 | 802 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SafeStates.cpp) |
 | 862 | [Link](https://github.com/tsistoza/CppLeetCode/blob/21945f293e967eb63a78f3688407cf286b71de54/ShortestSubarraywithK.cpp) |
 | 909 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SnakesNLadders.cpp) |
+| 962 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MaxWidthRamp.cpp) |
 | 983 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/TrainTickets.cpp) |
 | 1235 | [Link](https://github.com/tsistoza/CppLeetCode/blob/9e47bac29aa2481dbb521c4d1a5bd8a327d3753c/MaximumProfit.cpp) |
 | 1261 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ContaminatedBT.cpp) |
@@ -42,6 +43,7 @@ As well as familiarize myself with algorithms not already known to me.
 | 1455 | [Link](https://github.com/tsistoza/CppLeetCode/blob/a2932ebcdd6f1dfaa2cca96238f2f84d97603985/IsPrefixOfWord.cpp) |
 | 1475 | [Link](https://github.com/tsistoza/CppLeetCode/blob/16878745d75a9b1f20ff5e7c609c0a21450888b6/FinalPrices.cpp) |
 | 1493 | [Link](https://github.com/tsistoza/CppLeetCode/blob/fb370f139e61c7204ce93fe64429b32b09b66c8f/LongestSubArr.cpp) |
+| 1524 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/OddSubarrays.cpp) |
 | 1574 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/RemoveSubarraySort.cpp) |
 | 1577 | [Link](https://github.com/tsistoza/CppLeetCode/blob/ec87c8a42ad9dbb2a2e7419e533baee3b8d82b78/NumTriplets.cpp) |
 | 1608 | [Link](https://github.com/tsistoza/CppLeetCode/blob/b02321d7faf9765d7f68e4cf0fd43cbf101779a8/ArrayGtXLt.cpp) |
