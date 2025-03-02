@@ -35,6 +35,7 @@ As well as familiarize myself with algorithms not already known to me.
 | 909 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SnakesNLadders.cpp) |
 | 962 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MaxWidthRamp.cpp) |
 | 983 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/TrainTickets.cpp) |
+| 1157 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MajorityChecker.cpp) |
 | 1235 | [Link](https://github.com/tsistoza/CppLeetCode/blob/9e47bac29aa2481dbb521c4d1a5bd8a327d3753c/MaximumProfit.cpp) |
 | 1261 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ContaminatedBT.cpp) |
 | 1281 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SubSumInteger.cpp) |
@@ -67,6 +68,7 @@ As well as familiarize myself with algorithms not already known to me.
 | 2386 | [Link](https://github.com/tsistoza/CppLeetCode/blob/080fd64ee249565a899958454e1345671f30664f/FindKSum.cpp) |
 | 2419 | [Link](https://github.com/tsistoza/CppLeetCode/blob/17be93223fbc8a78c919b51690eb69fb1c846c28/MaxBitwiseAnd.cpp) |
 | 2429 | [Link](https://github.com/tsistoza/CppLeetCode/blob/75bbd9266c03db3afd224c1661e9911e8615425c/MinXor.cpp) |
+| 2460 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ArrOps.cpp) |
 | 2461 | [Link](https://github.com/tsistoza/CppLeetCode/blob/df71f68e223e4f8fdecf14bc2148d0c92183c4f5/MaximumSubarrayswithK.cpp) |
 | 2471 | [Link](https://github.com/tsistoza/CppLeetCode/blob/50c3d3d16bc58717f35009a7f0f3ff32f73f7799/MinNumOper.cpp) |
 | 2558 | [Link](https://github.com/tsistoza/CppLeetCode/blob/546944f1b8341547a3911c6641096cd2cf79b5af/TakeGifts.cpp) |
