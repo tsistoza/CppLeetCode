@@ -37,5 +37,6 @@ int main() {
     cout << majorityChecker->query(0, 5, 4) << endl;
     cout << majorityChecker->query(0, 3, 3) << endl;
     cout << majorityChecker->query(2, 3, 2) << endl;
+    delete majorityChecker;
     return 0;
 }
