@@ -11,25 +11,27 @@ As well as familiarize myself with algorithms not already known to me.
 # LeetCode Problems:
 | LeetCode # | Link                              |
 | :---       |                               ---:|
-| 11 | [Link](https://github.com/tsistoza/CppLeetCode/blob/3f82324cbc4711e84c9789c448b9b1f208ced4c9/ContainerWater.cpp) |
-| 22 | [Link](https://github.com/tsistoza/CppLeetCode/blob/c403c2205f66f91f6195b3cee16d209c2ab8e453/GenerateParethesis.cpp) |
-| 45 | [Link](https://github.com/tsistoza/CppLeetCode/blob/9660a373e3b25300a9a6bba6bd755bc524260bbe/JumpGameII.cpp) |
+| 11 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ContainerWater.cpp) |
+| 22 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/GenerateParethesis.cpp) |
+| 45 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/JumpGameII.cpp) |
 | 46 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/Permutations.cpp) |
-| 54 | [Link](https://github.com/tsistoza/CppLeetCode/blob/5d7438df993e7d3156c2fc8005b9b1b69ff66ba9/SpiralMatrix.cpp) |
-| 73 | [Link](https://github.com/tsistoza/CppLeetCode/blob/939835b4c612d91f3d901e1d10acfc55d5016b37/MatrixZeroes.cpp) |
-| 76 | [Link](https://github.com/tsistoza/CppLeetCode/blob/69230b960c05d5f90174f8bd2365bd9ac7a5384f/MinWindowSubstring.cpp) |
-| 81 | [Link](https://github.com/tsistoza/CppLeetCode/blob/3d0c9630c5453b52c7279cb9a248433ad6a0e14f/SearchRotatedArr.cpp) |
+| 54 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SpiralMatrix.cpp) |
+| 69 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/sqrt.cpp) |
+| 73 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MatrixZeroes.cpp) |
+| 76 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinWindowSubstring.cpp) |
+| 81 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SearchRotatedArr.cpp) |
 | 90 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SubsetsII.cpp) |
-| 105 | [Link](https://github.com/tsistoza/CppLeetCode/blob/7247e1a6e008207702d87cae2df98594c620128c/BuildBT.cpp) |
-| 139 | [Link](https://github.com/tsistoza/CppLeetCode/blob/56eb31840b2877d8a08c0d326bbf7f5eed5f76b3/WordBreak.cpp) |
-| 407 | [Link](https://github.com/tsistoza/CppLeetCode/blob/a5ab41679bca732a42fe4dd8fecbb17a29ed620a/RainWaterII.cpp) |
-| 423 | [Link](https://github.com/tsistoza/CppLeetCode/blob/fb89bc000009ac5acdc2e87573ab25ce818bab3b/ReconstructDigit.cpp) |
-| 632 | [Link](https://github.com/tsistoza/CppLeetCode/blob/6849d26b474f14ed5a6c9582ce98f87edfd6a8c7/MinRangeCoverKLists.cpp) |
-| 676 | [Link](https://github.com/tsistoza/CppLeetCode/blob/a19c4d0d25ca79d66b117979a4d5f5390b82cc1c/MagicDictionary.cpp) |
+| 105 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/BuildBT.cpp) |
+| 139 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/WordBreak.cpp) |
+| 407 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/RainWaterII.cpp) |
+| 423 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ReconstructDigit.cpp) |
+| 632 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinRangeCoverKLists.cpp) |
+| 676 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MagicDictionary.cpp) |
 | 684 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/RedundantConnection.cpp) |
-| 724 | [Link](https://github.com/tsistoza/CppLeetCode/blob/17896dbcca2152c8600885579c16c28c03a32a96/PivotIndex.cpp) |
-| 732 | [Link](https://github.com/tsistoza/CppLeetCode/blob/6cb4c4a781a2103f3a8537d55282668d0a0154a5/MyCalendarIII.cpp) |
-| 773 | [Link](https://github.com/tsistoza/CppLeetCode/blob/fed04894aa2d11844d349d7a0531d26b76c3cc30/SlidingPuzzle.cpp) |
+| 704 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/BinarySearch.cpp) |
+| 724 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/PivotIndex.cpp) |
+| 732 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MyCalendarIII.cpp) |
+| 773 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SlidingPuzzle.cpp) |
 | 802 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SafeStates.cpp) |
 | 862 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ShortestSubarraywithK.cpp) |
 | 909 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SnakesNLadders.cpp) |
@@ -96,5 +98,5 @@ As well as familiarize myself with algorithms not already known to me.
 | 3223 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinLengthStrOps.cpp) |
 | 3243 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ShortestDistRoad.cpp) |
 | 3254 | [WIP]() |
-| 3280 | [Link](https://github.com/tsistoza/CppLeetCode/blob/222299e65c85b5e161d60ad29d9c84780f6d7c71/DateToBinary.cpp) |
-| 3300 | [Link](https://github.com/tsistoza/CppLeetCode/blob/5b02e94cb7ee1d5459a32c5bae67b6ccd0e2a619/DigitReplacement.cpp) |
+| 3280 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/DateToBinary.cpp) |
+| 3300 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/DigitReplacement.cpp) |
