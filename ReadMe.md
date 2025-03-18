@@ -23,6 +23,8 @@ As well as familiarize myself with algorithms not already known to me.
 | 90 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SubsetsII.cpp) |
 | 105 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/BuildBT.cpp) |
 | 139 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/WordBreak.cpp) |
+| 268 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MissingNumber.cpp) |
+| 287 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/FindDuplicateNumber.cpp) |
 | 407 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/RainWaterII.cpp) |
 | 423 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ReconstructDigit.cpp) |
 | 632 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinRangeCoverKLists.cpp) |
