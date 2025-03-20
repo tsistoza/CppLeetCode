@@ -22,6 +22,7 @@ As well as familiarize myself with algorithms not already known to me.
 | 81 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SearchRotatedArr.cpp) |
 | 90 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SubsetsII.cpp) |
 | 105 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/BuildBT.cpp) |
+| 130 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SurroundedRegions.cpp) |
 | 139 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/WordBreak.cpp) |
 | 268 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MissingNumber.cpp) |
 | 287 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/FindDuplicateNumber.cpp) |
@@ -92,6 +93,7 @@ As well as familiarize myself with algorithms not already known to me.
 | 2952 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinCoinInsert.cpp) |
 | 2965 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/FindMissingAndRepeated.cpp) |
 | 3066 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ThresholdValueII.cpp) |
+| 3108 | [Link]() |
 | 3151 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SpecialArrayI.cpp) |
 | 3152 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SpecialArrayII.cpp) |
 | 3203 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinDiameterMerge.cpp) |
