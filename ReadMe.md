@@ -24,6 +24,7 @@ As well as familiarize myself with algorithms not already known to me.
 | 105 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/BuildBT.cpp) |
 | 130 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SurroundedRegions.cpp) |
 | 139 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/WordBreak.cpp) |
+| 198 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/HouseRobber.cpp) |
 | 268 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MissingNumber.cpp) |
 | 287 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/FindDuplicateNumber.cpp) |
 | 399 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/EvaluateDivision.cpp) |
@@ -72,6 +73,7 @@ As well as familiarize myself with algorithms not already known to me.
 | 2257 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountUnguarded.cpp) |
 | 2276 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountDigitIntervals.cpp) |
 | 2337 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MovePiecesString.cpp) |
+| 2349 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/NumberContainers.cpp) |
 | 2364 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountBadPairs.cpp) |
 | 2386 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/FindKSum.cpp) |
 | 2419 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MaxBitwiseAnd.cpp) |
@@ -94,7 +96,6 @@ As well as familiarize myself with algorithms not already known to me.
 | 2952 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinCoinInsert.cpp) |
 | 2965 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/FindMissingAndRepeated.cpp) |
 | 3066 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ThresholdValueII.cpp) |
-| 3108 | [Link]() |
 | 3151 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SpecialArrayI.cpp) |
 | 3152 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SpecialArrayII.cpp) |
 | 3203 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinDiameterMerge.cpp) |
