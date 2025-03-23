@@ -22,6 +22,11 @@ namespace Solution {
                 dp[i] = nums[i];
                 continue;
             }
+            
+            if (i == 2) {
+                dp[i] = dp[i-2] + nums[i];
+                continue;
+            }
             dp[i] = max(dp[i-2], dp[i-3]) + nums[i];
         }
 
