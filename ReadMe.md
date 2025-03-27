@@ -66,6 +66,7 @@ As well as familiarize myself with algorithms not already known to me.
 | 1930 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/PalindromicSubseq.cpp) |
 | 1985 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/KthLargestInt.cpp) |
 | 2032 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/TwoOutOfThree.cpp) |
+| 2033 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/UniValueGrid.cpp) |
 | 2109 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/AddSpacesString.cpp) |
 | 2161 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/PartitionArrayByPivot.cpp) |
 | 2185 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountingWordsPrefix.cpp) |
@@ -106,3 +107,4 @@ As well as familiarize myself with algorithms not already known to me.
 | 3254 | [WIP]() |
 | 3280 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/DateToBinary.cpp) |
 | 3300 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/DigitReplacement.cpp) |
+| 3394 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CutSections.cpp) |
