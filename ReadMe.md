@@ -93,6 +93,8 @@ As well as familiarize myself with algorithms not already known to me.
 | 2779 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MaxBeautyAfterOp.cpp) |
 | 2818 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/OpsMaxScore.cpp) |
 | 2848 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CarIntersection.cpp) |
+| 2873 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ValueOfTripletI.cpp) |
+| 2874 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ValueOfTripletII.cpp) |
 | 2924 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/FindChampionII.cpp) |
 | 2946 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MatrixCycleK.cpp) |
 | 2948 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SmallestArray.cpp) |
