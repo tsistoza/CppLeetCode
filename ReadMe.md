@@ -30,6 +30,7 @@ As well as familiarize myself with algorithms not already known to me.
 | 399 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/EvaluateDivision.cpp) |
 | 407 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/RainWaterII.cpp) |
 | 423 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ReconstructDigit.cpp) |
+| 500 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/KeyboardRow.cpp) |
 | 632 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinRangeCoverKLists.cpp) |
 | 676 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MagicDictionary.cpp) |
 | 684 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/RedundantConnection.cpp) |
