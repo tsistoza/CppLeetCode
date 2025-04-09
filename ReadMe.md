@@ -3,14 +3,16 @@ Hi all, this is a collection of leetcode problems that I have done over time. I 
 Nor do I claim them as one. These are merely coding problems I've done as a hobby to sharpen my coding skills on a particular programming language.
 As well as familiarize myself with algorithms not already known to me.
 
+Decided to add different variants of ways to solve problems, since there are going to be several ways to solve a problem. Note these only apply to coding problems I have done multiple times.
+
 ### **Again, these are not solutions. However, they are tested, and return the correct answers.**
 
 # LeetCode C# - Different LeetCode Problems
 ### [CSharpLeetCode](https://github.com/tsistoza/CSharpLeetCodes)
 
 # LeetCode Problems:
-| LeetCode # | Link                              |
-| :---       |                               ---:|
+| LeetCode # | Link                              | Type |
+| :---       |                               ---:|      |
 | 11 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ContainerWater.cpp) |
 | 22 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/GenerateParethesis.cpp) |
 | 45 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/JumpGameII.cpp) |
@@ -41,6 +43,7 @@ As well as familiarize myself with algorithms not already known to me.
 | 773 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SlidingPuzzle.cpp) |
 | 802 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SafeStates.cpp) |
 | 862 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ShortestSubarraywithK.cpp) |
+| 865 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SmallestSubtree.cpp) |
 | 909 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SnakesNLadders.cpp) |
 | 962 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MaxWidthRamp.cpp) |
 | 983 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/TrainTickets.cpp) |
