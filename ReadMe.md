@@ -115,4 +115,6 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 3254 | [WIP]() |
 | 3280 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/DateToBinary.cpp) |
 | 3300 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/DigitReplacement.cpp) |
+| 3375 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ArrayEqualToK.cpp) |
 | 3394 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CutSections.cpp) |
+| 3396 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/DistinctArray.cpp) |
