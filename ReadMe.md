@@ -68,6 +68,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 1813 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SentenceSimilarityIII.cpp) |
 | 1861 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/RotateBox.cpp) |
 | 1893 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/IntegerCovered.cpp) |
+| 1922 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountGoodNumbers.cpp) |
 | 1930 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/PalindromicSubseq.cpp) |
 | 1985 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/KthLargestInt.cpp) |
 | 2032 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/TwoOutOfThree.cpp) |
@@ -113,6 +114,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 3223 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinLengthStrOps.cpp) |
 | 3243 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ShortestDistRoad.cpp) |
 | 3254 | [WIP]() |
+| 3272 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountGoodIntegers.cpp) |
 | 3280 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/DateToBinary.cpp) |
 | 3300 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/DigitReplacement.cpp) |
 | 3375 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ArrayEqualToK.cpp) |
