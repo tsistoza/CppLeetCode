@@ -75,6 +75,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 2033 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/UniValueGrid.cpp) |
 | 2109 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/AddSpacesString.cpp) |
 | 2161 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/PartitionArrayByPivot.cpp) |
+| 2176 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountEqualDivPairs.cpp) |
 | 2185 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountingWordsPrefix.cpp) |
 | 2231 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/DigitSwap.cpp) |
 | 2257 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountUnguarded.cpp) |
@@ -89,6 +90,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 2461 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MaximumSubarrayswithK.cpp) |
 | 2467 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ProfitablePath.cpp) |
 | 2471 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinNumOper.cpp) |
+| 2537 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountGoodSubarrays.cpp) |
 | 2558 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/TakeGifts.cpp) |
 | 2559 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountVowel.cpp) |
 | 2593 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ScoreArray.cpp) |
