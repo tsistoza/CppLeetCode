@@ -41,6 +41,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 732 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MyCalendarIII.cpp) |
 | 763 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/PartitionLabels.cpp) |
 | 773 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SlidingPuzzle.cpp) |
+| 781 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/RabbitsInForest.cpp) |
 | 802 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SafeStates.cpp) |
 | 862 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ShortestSubarraywithK.cpp) |
 | 865 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SmallestSubtree.cpp) |
@@ -74,6 +75,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 2032 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/TwoOutOfThree.cpp) |
 | 2033 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/UniValueGrid.cpp) |
 | 2109 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/AddSpacesString.cpp) |
+| 2145 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountHiddenSeq.cpp) |
 | 2161 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/PartitionArrayByPivot.cpp) |
 | 2176 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountEqualDivPairs.cpp) |
 | 2185 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountingWordsPrefix.cpp) |
