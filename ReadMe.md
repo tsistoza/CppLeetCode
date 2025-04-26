@@ -100,7 +100,9 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 2661 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/PaintTheCells.cpp) |
 | 2685 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/Components.cpp) |
 | 2779 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MaxBeautyAfterOp.cpp) |
+| 2799 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountCompleteSubarray.cpp) |
 | 2818 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/OpsMaxScore.cpp) |
+| 2845 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountInterestingSubarr.cpp) |
 | 2848 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CarIntersection.cpp) |
 | 2873 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ValueOfTripletI.cpp) |
 | 2874 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ValueOfTripletII.cpp) |
