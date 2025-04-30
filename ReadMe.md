@@ -82,6 +82,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 2231 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/DigitSwap.cpp) |
 | 2257 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountUnguarded.cpp) |
 | 2276 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountDigitIntervals.cpp) |
+| 2302 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountSubarrayLtK.cpp) |
 | 2337 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MovePiecesString.cpp) |
 | 2349 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/NumberContainers.cpp) |
 | 2364 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountBadPairs.cpp) |
@@ -110,6 +111,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 2946 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MatrixCycleK.cpp) |
 | 2948 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SmallestArray.cpp) |
 | 2952 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinCoinInsert.cpp) |
+| 2962 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountSubarraysMax.cpp) |
 | 2965 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/FindMissingAndRepeated.cpp) |
 | 3066 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ThresholdValueII.cpp) |
 | 3151 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SpecialArrayI.cpp) |
