@@ -8,8 +8,8 @@
 using std::cout, std::endl, std::vector, std::pair;
 using std::sort, std::unordered_set;
 
-static vector<int> tops { 3, 5, 1, 2, 3 };
-static vector<int> bottoms { 3, 6, 3, 3, 4};
+static vector<int> tops { 2, 1, 2, 4, 2, 2 };
+static vector<int> bottoms { 5, 2, 6, 2, 3, 2};
 
 namespace Solution {
     class Compare {
@@ -44,12 +44,12 @@ namespace Solution {
 
             int count = tops.size() - dict[i].second;
             if (idx > 5) {
-                for (auto it=pos[idx-6].begin(); it!=pos[idx-5].end() && count > 0; it++)
+                for (auto it=pos[idx-6].begin(); it!=pos[idx-6].end() && count > 0; it++)
                     if (!pos[idx].contains(*it)) count--;
             }
 
             if (idx <= 5) {
-                for (auto it=pos[idx+6].begin(); it!=pos[idx+5].end() && count > 0; it++) {
+                for (auto it=pos[idx+6].begin(); it!=pos[idx+6].end() && count > 0; it++) {
                     if (!pos[idx].contains(*it)) count--;
                 }
             }
