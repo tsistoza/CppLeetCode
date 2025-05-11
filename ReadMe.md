@@ -60,6 +60,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 1475 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/FinalPrices.cpp) |
 | 1493 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/LongestSubArr.cpp) |
 | 1524 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/OddSubarrays.cpp) |
+| 1550 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ThreeConsecutiveOdds.cpp) |
 | 1574 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/RemoveSubarraySort.cpp) |
 | 1577 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/NumTriplets.cpp) |
 | 1608 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ArrayGtXLt.cpp) |
@@ -110,6 +111,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 2848 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CarIntersection.cpp) |
 | 2873 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ValueOfTripletI.cpp) |
 | 2874 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ValueOfTripletII.cpp) |
+| 2918 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinEqualSumOfArrays.cpp) |
 | 2924 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/FindChampionII.cpp) |
 | 2946 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MatrixCycleK.cpp) |
 | 2948 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SmallestArray.cpp) |
