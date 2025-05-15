@@ -111,6 +111,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 2848 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CarIntersection.cpp) |
 | 2873 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ValueOfTripletI.cpp) |
 | 2874 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ValueOfTripletII.cpp) |
+| 2900 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/UnequalAdjGroupsI.cpp) |
 | 2918 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinEqualSumOfArrays.cpp) |
 | 2924 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/FindChampionII.cpp) |
 | 2946 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MatrixCycleK.cpp) |
@@ -130,6 +131,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 3272 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountGoodIntegers.cpp) |
 | 3280 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/DateToBinary.cpp) |
 | 3300 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/DigitReplacement.cpp) |
+| 3337 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/TotalCharsAfterTransformII.cpp) |
 | 3341 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinTimeToLastRoomI.cpp) |
 | 3375 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ArrayEqualToK.cpp) |
 | 3394 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CutSections.cpp) |
