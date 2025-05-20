@@ -8,7 +8,7 @@
 using std::cout, std::endl, std::vector;
 using std::string, std::unordered_set, std::abs;
 
-static vector<int> nums { 3, 2, 1 };
+static vector<int> nums { 1, 2, 3 };
 
 namespace Solution {
     class Program {
@@ -23,7 +23,7 @@ namespace Solution {
         if (dupe.size() == 1) return "equilateral";
         if (dupe.size() == 2) return "isosceles";
 
-        return (nums[2] > nums[0]-nums[1] && nums[2] < nums[0] + nums[1]) ? "scalene" : "none";
+        return (nums[2] > abs(nums[0]-nums[1]) && nums[2] < nums[0] + nums[1]) ? "scalene" : "none";
     }
 }
 
