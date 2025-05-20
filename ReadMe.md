@@ -26,6 +26,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 105 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/BuildBT.cpp) |
 | 130 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SurroundedRegions.cpp) |
 | 139 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/WordBreak.cpp) |
+| 153 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinRotateArr.cpp) |
 | 198 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/HouseRobber.cpp) |
 | 268 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MissingNumber.cpp) |
 | 287 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/FindDuplicateNumber.cpp) |
@@ -119,6 +120,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 2952 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinCoinInsert.cpp) |
 | 2962 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountSubarraysMax.cpp) |
 | 2965 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/FindMissingAndRepeated.cpp) |
+| 3024 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/TypeOfTriangle.cpp) |
 | 3066 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ThresholdValueII.cpp) |
 | 3151 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SpecialArrayI.cpp) |
 | 3152 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SpecialArrayII.cpp) |
