@@ -4,7 +4,7 @@
 
 using std::cout, std::endl, std::vector;
 
-static vector<int> nums { 11,13,15,17 };
+static vector<int> nums { 3,4,5,1,2 };
 
 namespace Solution {
     class Program {
@@ -18,14 +18,12 @@ namespace Solution {
         while (left<right) {
             int mid = left + (right-left) / 2;
             if (nums[left] < nums[right]) {
-                right = (nums[mid] > nums[left]) ? mid-1 : right;
-                right = (nums[mid] <= nums[left]) ? mid : right;
+                right = (nums[mid] > nums[left]) ? mid-1 : mid;
                 continue;
             }
 
             if (nums[left] > nums[right]) {
-                left = (nums[mid] > nums[right]) ? mid+1 : left;
-                left = (nums[mid] <= nums[right]) ? mid : left;
+                left = (nums[mid] > nums[right]) ? mid+1 : mid;
                 continue;
             }
         }
