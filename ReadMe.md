@@ -115,6 +115,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 2900 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/UnequalAdjGroupsI.cpp) |
 | 2918 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinEqualSumOfArrays.cpp) |
 | 2924 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/FindChampionII.cpp) |
+| 2942 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/FindCharInWords.cpp) |
 | 2946 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MatrixCycleK.cpp) |
 | 2948 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SmallestArray.cpp) |
 | 2952 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinCoinInsert.cpp) |
@@ -122,6 +123,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 2965 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/FindMissingAndRepeated.cpp) |
 | 3024 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/TypeOfTriangle.cpp) |
 | 3066 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ThresholdValueII.cpp) |
+| 3068 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MaxNodeVal.cpp) |
 | 3151 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SpecialArrayI.cpp) |
 | 3152 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SpecialArrayII.cpp) |
 | 3203 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinDiameterMerge.cpp) |
