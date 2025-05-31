@@ -90,6 +90,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 2302 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountSubarrayLtK.cpp) |
 | 2337 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MovePiecesString.cpp) |
 | 2349 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/NumberContainers.cpp) |
+| 2359 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/FindClosestNode.cpp) |
 | 2364 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountBadPairs.cpp) |
 | 2386 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/FindKSum.cpp) |
 | 2419 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MaxBitwiseAnd.cpp) |
@@ -137,6 +138,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 3300 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/DigitReplacement.cpp) |
 | 3337 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/TotalCharsAfterTransformII.cpp) |
 | 3341 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinTimeToLastRoomI.cpp) |
+| 3372 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MaxNumTargetNodes.cpp) |
 | 3375 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ArrayEqualToK.cpp) |
 | 3394 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CutSections.cpp) |
 | 3396 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/DistinctArray.cpp) |
