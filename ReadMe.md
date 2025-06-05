@@ -51,7 +51,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 962 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MaxWidthRamp.cpp) |
 | 983 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/TrainTickets.cpp) |
 | 1007 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinDominoRotations.cpp) |
-| 1061 | [Link]() |
+| 1061 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/LexicographicallySmallestString.cpp) |
 | 1157 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MajorityChecker.cpp) |
 | 1235 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MaximumProfit.cpp) |
 | 1261 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ContaminatedBT.cpp) |
@@ -143,4 +143,4 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 3375 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ArrayEqualToK.cpp) |
 | 3394 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CutSections.cpp) |
 | 3396 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/DistinctArray.cpp) |
-| 3403 | [Link]() |
+| 3403 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/LexLargeStrBox.cpp) |
