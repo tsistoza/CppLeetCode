@@ -144,3 +144,5 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 3394 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CutSections.cpp) |
 | 3396 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/DistinctArray.cpp) |
 | 3403 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/LexLargeStrBox.cpp) |
+| 3423 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MaxDiffCircArray.cpp) |
+| 3442 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MaxDiffFreq.cpp) |
