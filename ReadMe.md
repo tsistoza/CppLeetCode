@@ -78,6 +78,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 1922 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountGoodNumbers.cpp) |
 | 1930 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/PalindromicSubseq.cpp) |
 | 1985 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/KthLargestInt.cpp) |
+| 2016 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MaxDiffInc.cpp) |
 | 2032 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/TwoOutOfThree.cpp) |
 | 2033 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/UniValueGrid.cpp) |
 | 2109 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/AddSpacesString.cpp) |
@@ -123,6 +124,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 2952 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinCoinInsert.cpp) |
 | 2962 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountSubarraysMax.cpp) |
 | 2965 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/FindMissingAndRepeated.cpp) |
+| 2966 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/DivArrayMaxDiff.cpp) |
 | 3024 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/TypeOfTriangle.cpp) |
 | 3066 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ThresholdValueII.cpp) |
 | 3068 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MaxNodeVal.cpp) |
