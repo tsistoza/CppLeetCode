@@ -81,11 +81,14 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 2016 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MaxDiffInc.cpp) |
 | 2032 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/TwoOutOfThree.cpp) |
 | 2033 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/UniValueGrid.cpp) |
+| 2081 | [WIP]() |
 | 2109 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/AddSpacesString.cpp) |
+| 2138 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/DivStringK.cpp) |
 | 2145 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountHiddenSeq.cpp) |
 | 2161 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/PartitionArrayByPivot.cpp) |
 | 2176 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountEqualDivPairs.cpp) |
 | 2185 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountingWordsPrefix.cpp) |
+| 2200 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/KDistantIndices.cpp) |
 | 2231 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/DigitSwap.cpp) |
 | 2257 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountUnguarded.cpp) |
 | 2276 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountDigitIntervals.cpp) |
