@@ -34,6 +34,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 407 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/RainWaterII.cpp) |
 | 423 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ReconstructDigit.cpp) |
 | 500 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/KeyboardRow.cpp) |
+| 594 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/LongestHarmoniousSeq.cpp) |
 | 632 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinRangeCoverKLists.cpp) |
 | 676 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MagicDictionary.cpp) |
 | 684 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/RedundantConnection.cpp) |
@@ -81,7 +82,6 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 2016 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MaxDiffInc.cpp) |
 | 2032 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/TwoOutOfThree.cpp) |
 | 2033 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/UniValueGrid.cpp) |
-| 2081 | [WIP]() |
 | 2109 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/AddSpacesString.cpp) |
 | 2138 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/DivStringK.cpp) |
 | 2145 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountHiddenSeq.cpp) |
@@ -142,6 +142,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 3272 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountGoodIntegers.cpp) |
 | 3280 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/DateToBinary.cpp) |
 | 3300 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/DigitReplacement.cpp) |
+| 3330 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/FindTypedString.cpp) |
 | 3337 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/TotalCharsAfterTransformII.cpp) |
 | 3341 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinTimeToLastRoomI.cpp) |
 | 3372 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MaxNumTargetNodes.cpp) |
