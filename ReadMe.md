@@ -151,4 +151,6 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 3396 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/DistinctArray.cpp) |
 | 3403 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/LexLargeStrBox.cpp) |
 | 3423 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MaxDiffCircArray.cpp) |
+| 3439 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/RescheduleMeetingsI.cpp) |
+| 3440 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/RescheduleMeetingsII.cpp) |
 | 3442 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MaxDiffFreq.cpp) |
