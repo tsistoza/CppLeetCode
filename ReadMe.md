@@ -68,6 +68,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 1577 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/NumTriplets.cpp) |
 | 1608 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ArrayGtXLt.cpp) |
 | 1639 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/numWaysFrom.cpp) |
+| 1695 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MaxErasureValue.cpp) |
 | 1749 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MaxSumSubarray.cpp) |
 | 1760 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinBallSplit.cpp) |
 | 1765 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MapPeak.cpp) |
@@ -78,6 +79,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 1920 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/BuildArrayPerm.cpp) |
 | 1922 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountGoodNumbers.cpp) |
 | 1930 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/PalindromicSubseq.cpp) |
+| 1957 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/DeleteCharFancy.cpp) |
 | 1985 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/KthLargestInt.cpp) |
 | 2016 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MaxDiffInc.cpp) |
 | 2032 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/TwoOutOfThree.cpp) |
