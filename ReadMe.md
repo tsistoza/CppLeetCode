@@ -30,6 +30,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 198 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/HouseRobber.cpp) |
 | 268 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MissingNumber.cpp) |
 | 287 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/FindDuplicateNumber.cpp) |
+| 326 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/PowerOfThree.cpp) |
 | 399 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/EvaluateDivision.cpp) |
 | 407 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/RainWaterII.cpp) |
 | 423 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ReconstructDigit.cpp) |
