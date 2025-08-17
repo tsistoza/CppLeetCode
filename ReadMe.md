@@ -31,6 +31,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 268 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MissingNumber.cpp) |
 | 287 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/FindDuplicateNumber.cpp) |
 | 326 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/PowerOfThree.cpp) |
+| 392 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/IsSubseq.cpp) |
 | 399 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/EvaluateDivision.cpp) |
 | 407 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/RainWaterII.cpp) |
 | 423 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ReconstructDigit.cpp) |
