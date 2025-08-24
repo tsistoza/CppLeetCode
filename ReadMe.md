@@ -19,6 +19,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 46 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/Permutations.cpp) |
 | 54 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SpiralMatrix.cpp) |
 | 69 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/sqrt.cpp) |
+| 72 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/EditDistance.cpp) |
 | 73 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MatrixZeroes.cpp) |
 | 76 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinWindowSubstring.cpp) |
 | 81 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SearchRotatedArr.cpp) |
