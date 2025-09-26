@@ -28,6 +28,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 120 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/Triangle.cpp) |
 | 121 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/BuySellStock.cpp) |
 | 130 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SurroundedRegions.cpp) |
+| 131 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/PalindromePartition.cpp) |
 | 139 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/WordBreak.cpp) |
 | 153 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinRotateArr.cpp) |
 | 198 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/HouseRobber.cpp) |
