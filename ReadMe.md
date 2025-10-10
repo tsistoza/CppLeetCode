@@ -142,6 +142,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 3024 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/TypeOfTriangle.cpp) |
 | 3066 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ThresholdValueII.cpp) |
 | 3068 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MaxNodeVal.cpp) |
+| 3147 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MysticDungeon.cpp) |
 | 3151 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SpecialArrayI.cpp) |
 | 3152 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SpecialArrayII.cpp) |
 | 3203 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinDiameterMerge.cpp) |
