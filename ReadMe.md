@@ -35,6 +35,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 263 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/UglyNumber.cpp) |
 | 268 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MissingNumber.cpp) |
 | 287 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/FindDuplicateNumber.cpp) |
+| 312 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/BurstBalloons.cpp) |
 | 326 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/PowerOfThree.cpp) |
 | 392 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/IsSubseq.cpp) |
 | 399 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/EvaluateDivision.cpp) |
