@@ -42,6 +42,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 407 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/RainWaterII.cpp) |
 | 417 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/WaterFlow.cpp) |
 | 423 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ReconstructDigit.cpp) |
+| 458 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/PoorPigs.cpp) |
 | 500 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/KeyboardRow.cpp) |
 | 594 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/LongestHarmoniousSeq.cpp) |
 | 632 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinRangeCoverKLists.cpp) |
