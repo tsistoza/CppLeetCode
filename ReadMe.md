@@ -102,6 +102,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 2176 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountEqualDivPairs.cpp) |
 | 2185 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountingWordsPrefix.cpp) |
 | 2200 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/KDistantIndices.cpp) |
+| 2125 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/NumLaserBeams.cpp) |
 | 2231 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/DigitSwap.cpp) |
 | 2257 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountUnguarded.cpp) |
 | 2276 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountDigitIntervals.cpp) |
