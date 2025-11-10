@@ -171,3 +171,4 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 3439 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/RescheduleMeetingsI.cpp) |
 | 3440 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/RescheduleMeetingsII.cpp) |
 | 3442 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MaxDiffFreq.cpp) |
+| 3542 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ConvertAllToZero.cpp) |
