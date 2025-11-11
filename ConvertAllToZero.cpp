@@ -7,12 +7,13 @@
 using std::cout, std::endl, std::vector;
 using std::stack, std::unordered_map;
 
-static vector<int> nums { 0, 2 };
+static vector<int> nums { 0, 0, 0 ,0 };
 
 namespace Solution {
     class Program {
         private:
             int countOps(unordered_map<int,int>& dict);
+            unordered_map<int,int> poppedOffStack(stack<int>& monoStack, int num);
         public:
             int minOperations(vector<int>& nums);
     };
@@ -21,21 +22,32 @@ namespace Solution {
         int operations = 0;
         stack<int> monoStack;
         monoStack.push(nums[0]);
-        for (int i=1; i<nums.size(); i++) {
-            unordered_map<int, int> dict;
+        unordered_map<int,int> dict;
 
-            while(monoStack.size() > 0) {
-                if (nums[i] > monoStack.top()) break;
-                dict[monoStack.top()]++;
-                monoStack.pop();
-            }
-            
+        for (int i=1; i<nums.size() + 1; i++) {
+            unordered_map<int,int> dict = (i < nums.size()) ? poppedOffStack(monoStack, nums[i]) 
+                                                            : poppedOffStack(monoStack, INT_MIN);
             operations += countOps(dict);
-            if (!dict.contains(nums[i]))
-                monoStack.push(nums[i]);
+
+            if (i==nums.size()) continue;
+            monoStack.push(nums[i]);
         }
 
-        return (monoStack.size() > 0) ? operations+1 : operations;
+        return operations;
+    }
+
+    unordered_map<int,int> Program::poppedOffStack(stack<int>& monoStack, int num) {
+        if (num == monoStack.top()) return unordered_map<int,int>();
+
+        unordered_map<int,int> dict;
+        while (monoStack.size() > 0) {
+            if (num > monoStack.top()) break;
+            if (num == monoStack.top()) break;
+            dict[monoStack.top()]++;
+            monoStack.pop();
+        }
+
+        return dict;
     }
 
     int Program::countOps(unordered_map<int,int>& dict) {
