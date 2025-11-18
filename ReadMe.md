@@ -49,6 +49,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 676 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MagicDictionary.cpp) |
 | 684 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/RedundantConnection.cpp) |
 | 704 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/BinarySearch.cpp) |
+| 717 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/OneBitTwoBitChars.cpp) |
 | 724 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/PivotIndex.cpp) |
 | 729 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MyCalendarI.cpp) | Segment Tree |
 | 732 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MyCalendarIII.cpp) |
