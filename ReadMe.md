@@ -175,3 +175,4 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 3442 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MaxDiffFreq.cpp) |
 | 3512 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinOpsToDivisible.cpp) |
 | 3542 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ConvertAllToZero.cpp) |
+| 3577 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CompUnlock.cpp) |
