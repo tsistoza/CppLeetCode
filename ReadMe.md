@@ -61,6 +61,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 862 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ShortestSubarraywithK.cpp) |
 | 865 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SmallestSubtree.cpp) |
 | 909 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SnakesNLadders.cpp) |
+| 944 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/DeleteColumns.cpp) |
 | 962 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MaxWidthRamp.cpp) |
 | 983 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/TrainTickets.cpp) |
 | 1007 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinDominoRotations.cpp) |
