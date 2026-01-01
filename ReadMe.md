@@ -18,6 +18,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 45 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/JumpGameII.cpp) |
 | 46 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/Permutations.cpp) |
 | 54 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SpiralMatrix.cpp) |
+| 66 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/PlusOne.cpp) |
 | 69 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/sqrt.cpp) |
 | 72 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/EditDistance.cpp) |
 | 73 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MatrixZeroes.cpp) |
