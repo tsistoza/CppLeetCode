@@ -15,6 +15,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | :---       |                               ---:| :---     |
 | 11 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ContainerWater.cpp) |
 | 22 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/GenerateParethesis.cpp) |
+| 20 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ValidParens.cpp) |
 | 45 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/JumpGameII.cpp) |
 | 46 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/Permutations.cpp) |
 | 54 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SpiralMatrix.cpp) |
