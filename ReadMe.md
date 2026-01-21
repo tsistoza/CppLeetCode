@@ -163,6 +163,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 3272 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountGoodIntegers.cpp) |
 | 3280 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/DateToBinary.cpp) |
 | 3300 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/DigitReplacement.cpp) |
+| 3314 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinBitwiseArray.cpp) |
 | 3330 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/FindTypedString.cpp) |
 | 3337 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/TotalCharsAfterTransformII.cpp) |
 | 3341 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinTimeToLastRoomI.cpp) |
