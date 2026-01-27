@@ -70,6 +70,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 1015 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SmallestIntegerDivisible.cpp) |
 | 1061 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/LexicographicallySmallestString.cpp) |
 | 1157 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MajorityChecker.cpp) |
+| 1200 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinAbsDifference.cpp) |
 | 1235 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MaximumProfit.cpp) |
 | 1261 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ContaminatedBT.cpp) |
 | 1281 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SubSumInteger.cpp) |
