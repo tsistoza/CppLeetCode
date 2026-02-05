@@ -181,3 +181,4 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 3512 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinOpsToDivisible.cpp) |
 | 3542 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ConvertAllToZero.cpp) |
 | 3577 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CompUnlock.cpp) |
+| 3640 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/TrionicArrayII.cpp) |
