@@ -33,6 +33,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 131 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/PalindromePartition.cpp) |
 | 139 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/WordBreak.cpp) |
 | 153 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinRotateArr.cpp) |
+| 190 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ReverseBits.cpp) |
 | 198 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/HouseRobber.cpp) |
 | 263 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/UglyNumber.cpp) |
 | 268 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MissingNumber.cpp) |
