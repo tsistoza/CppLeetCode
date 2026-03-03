@@ -83,6 +83,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 1475 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/FinalPrices.cpp) |
 | 1493 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/LongestSubArr.cpp) |
 | 1524 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/OddSubarrays.cpp) |
+| 1545 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/FindKthBit.cpp) |
 | 1550 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ThreeConsecutiveOdds.cpp) |
 | 1574 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/RemoveSubarraySort.cpp) |
 | 1577 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/NumTriplets.cpp) |
