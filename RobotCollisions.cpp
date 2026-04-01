@@ -19,12 +19,6 @@ namespace Solution {
                 return v1[0] < v2[0];
             }
     };
-    class SortByIndex {
-        public:
-            bool operator()(const vector<int>& v1, const vector<int>& v2) const {
-                return v1[1] < v2[1];
-            }
-    };
     class Program {
         private: 
             static void prettyPrint(vector<int> answers);
