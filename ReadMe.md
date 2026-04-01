@@ -138,6 +138,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 2658 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/FishMaxing.cpp) |
 | 2661 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/PaintTheCells.cpp) |
 | 2685 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/Components.cpp) |
+| 2751 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/RobotCollisions.cpp) |
 | 2779 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MaxBeautyAfterOp.cpp) |
 | 2799 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountCompleteSubarray.cpp) |
 | 2818 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/OpsMaxScore.cpp) |
