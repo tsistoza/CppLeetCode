@@ -108,6 +108,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 2016 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MaxDiffInc.cpp) |
 | 2032 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/TwoOutOfThree.cpp) |
 | 2033 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/UniValueGrid.cpp) |
+| 2069 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/WalkingRobotII.cpp) |
 | 2109 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/AddSpacesString.cpp) |
 | 2138 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/DivStringK.cpp) |
 | 2145 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountHiddenSeq.cpp) |
