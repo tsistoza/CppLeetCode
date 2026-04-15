@@ -132,6 +132,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 2461 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MaximumSubarrayswithK.cpp) |
 | 2467 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ProfitablePath.cpp) |
 | 2471 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinNumOper.cpp) |
+| 2515 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ShortestDistToTarget.cpp) |
 | 2537 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountGoodSubarrays.cpp) |
 | 2558 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/TakeGifts.cpp) |
 | 2559 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountVowel.cpp) |
