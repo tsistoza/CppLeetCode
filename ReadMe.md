@@ -137,6 +137,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 2558 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/TakeGifts.cpp) |
 | 2559 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountVowel.cpp) |
 | 2593 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ScoreArray.cpp) |
+| 2615 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SumOfDistances.cpp) |
 | 2658 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/FishMaxing.cpp) |
 | 2661 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/PaintTheCells.cpp) |
 | 2685 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/Components.cpp) |
