@@ -68,6 +68,7 @@ namespace Solution {
             currNode = currNode->next;
         }
 
+        size = arr.size();
         back = currNode;
         return;
     }
