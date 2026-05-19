@@ -136,6 +136,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 2471 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinNumOper.cpp) |
 | 2515 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ShortestDistToTarget.cpp) |
 | 2537 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountGoodSubarrays.cpp) |
+| 2540 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinimumCommonValue.cpp) |
 | 2553 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SeparateDigits.cpp) |
 | 2558 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/TakeGifts.cpp) |
 | 2559 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountVowel.cpp) |
