@@ -199,3 +199,4 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 3577 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CompUnlock.cpp) |
 | 3633 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/FinishTimeI.cpp) |
 | 3640 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/TrionicArrayII.cpp) |
+| 3689 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SubarrayValueI.cpp) |
