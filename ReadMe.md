@@ -201,3 +201,4 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 3633 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/FinishTimeI.cpp) |
 | 3640 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/TrionicArrayII.cpp) |
 | 3689 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SubarrayValueI.cpp) |
+| 3699 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/NumberZigZagArraysI.cpp) |
