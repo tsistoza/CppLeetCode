@@ -10,28 +10,9 @@ static string s = "acbbcac";
 
 namespace Solution {
     class Program {
-        private:
-            vector<int> containsABC(string& s, int left, int right);
         public:
             int numberOfSubstrings(string s);
     };
-
-    vector<int> containsABC(string& s, int left, int right) {
-        vector<int> result(4, -1);
-        for (int i=left; i<=right; i++) {
-            switch (s[i]) {
-                case 'a': result[1] = i;
-                    break;
-                case 'b': result[2] = i;
-                    break;
-                case 'c': result[3] = i;
-                    break;
-                default: break;
-            }
-        }
-        if (result[1] > -1 && result[2] > -1 && result[3] > -1) result[0] = 1;
-        return result;
-    }
 
     int Program::numberOfSubstrings(string s) {
         int sum = 0;
