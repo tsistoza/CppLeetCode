@@ -80,6 +80,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 1261 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ContaminatedBT.cpp) |
 | 1281 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SubSumInteger.cpp) |
 | 1320 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinDistWord.cpp) |
+| 1358 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ThreeCharSubstrings.cpp) |
 | 1382 | [Link](https://github.com/tsistoza/CppLeetCode/blob/maing/BalanceBST.cpp) |
 | 1391 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/GridHasValidPath.cpp) |
 | 1408 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/StringMatching.cpp) |
