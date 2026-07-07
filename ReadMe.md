@@ -203,3 +203,4 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 3640 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/TrionicArrayII.cpp) |
 | 3689 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SubarrayValueI.cpp) |
 | 3699 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/NumberZigZagArraysI.cpp) |
+| 3754 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ConcatenateNonZeroDigitsI.cpp) |
