@@ -183,6 +183,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 3300 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/DigitReplacement.cpp) |
 | 3314 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinBitwiseArray.cpp) |
 | 3330 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/FindTypedString.cpp) |
+| 3336 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SubsequenceGCD.cpp) |
 | 3337 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/TotalCharsAfterTransformII.cpp) |
 | 3341 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinTimeToLastRoomI.cpp) |
 | 3372 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MaxNumTargetNodes.cpp) |
