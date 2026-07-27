@@ -85,6 +85,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 1391 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/GridHasValidPath.cpp) |
 | 1408 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/StringMatching.cpp) |
 | 1455 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/IsPrefixOfWord.cpp) |
+| 1464 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MaxProductOfTwoElements.cpp) |
 | 1475 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/FinalPrices.cpp) |
 | 1493 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/LongestSubArr.cpp) |
 | 1524 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/OddSubarrays.cpp) |
