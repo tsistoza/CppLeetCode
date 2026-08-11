@@ -5,8 +5,8 @@
 
 using std::cout, std::endl, std::vector, std::priority_queue;
 
-static vector<int> hand { 1, 2, 3, 6, 2, 3, 4, 7, 8 };
-static int groupSize = 2;
+static vector<int> hand { 1, 2, 3, 4, 5, 6, 7, 8 };
+static int groupSize = 4;
 
 namespace Solution {
     class Program {
@@ -27,6 +27,7 @@ namespace Solution {
             if (size == 0) {
                 for (int i : requeue) queue.push(i);
                 requeue.clear();
+                lastCard = currCard;
                 queue.pop();
                 continue;
             }
