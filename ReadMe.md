@@ -64,6 +64,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 781 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/RabbitsInForest.cpp) |
 | 802 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SafeStates.cpp) |
 | 838 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/PushDominoes.cpp) |
+| 846 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/HandOfStraights.cpp) |
 | 862 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ShortestSubarraywithK.cpp) |
 | 865 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SmallestSubtree.cpp) |
 | 909 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SnakesNLadders.cpp) |
