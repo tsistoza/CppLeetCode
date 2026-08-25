@@ -6,7 +6,7 @@
 
 using std::cout, std::endl, std::vector, std::unordered_set, std::min;
 
-static vector<int> nums { 8, 2, 3, 4, 6 };
+static vector<int> nums { 1, 4, 7, 10, 15 };
 static int k = 2;
 
 namespace Solution {
@@ -22,7 +22,7 @@ namespace Solution {
         for (int i : nums) {
             if (set.contains(i)) continue;
             set.insert(i);
-            while (set.contains(minMultiple)) minMultiple += 2;
+            while (set.contains(minMultiple)) minMultiple += k;
         }
 
         return minMultiple;
