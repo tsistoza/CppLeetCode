@@ -202,6 +202,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 3499 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MaxActiveSectionWithTradeI.cpp) |
 | 3512 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinOpsToDivisible.cpp) |
 | 3542 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ConvertAllToZero.cpp) |
+| 3568 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CleanTheClassroom.cpp) |
 | 3577 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CompUnlock.cpp) |
 | 3612 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/StringSpecialOpsI.cpp) |
 | 3633 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/FinishTimeI.cpp) |
