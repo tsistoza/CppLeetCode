@@ -212,3 +212,4 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 3718 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SmallestMissingMultipleOfK.cpp) |
 | 3731 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/FindMissingElement.cpp) |
 | 3754 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ConcatenateNonZeroDigitsI.cpp) |
+| 3870 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountCommasInRange.cpp) |
