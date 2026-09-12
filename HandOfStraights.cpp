@@ -5,8 +5,8 @@
 
 using std::cout, std::endl, std::vector, std::priority_queue;
 
-static vector<int> hand { 1, 2, 3, 4, 5, 6, 7, 8 };
-static int groupSize = 4;
+static vector<int> hand { 8, 10, 12 };
+static int groupSize = 3;
 
 namespace Solution {
     class Program {
@@ -15,39 +15,40 @@ namespace Solution {
     };
 
     bool Program::isNStraightHand(vector<int>& hand, int groupSize) {
+        if (groupSize == 1) return true;
         if (hand.size() % groupSize > 0) return false;
         
         priority_queue<int, vector<int>, std::greater<int>> queue(hand.begin(), hand.end());
         vector<int> requeue;
         
-        int size = 0, lastCard = -1;
+        int sizeOfHand = 0, lastCard = -1;
         while (!queue.empty()) {
             int currCard = queue.top();
+            queue.pop();
 
-            if (size == 0) {
-                for (int i : requeue) queue.push(i);
-                requeue.clear();
+            if (sizeOfHand == 0) {
                 lastCard = currCard;
-                queue.pop();
+                sizeOfHand++;
                 continue;
             }
             
-            if (lastCard + 1 < currCard) return false;
+            if (lastCard + 1 < currCard || lastCard + 1 > currCard) requeue.push_back(currCard);
             else if (lastCard + 1 == currCard) {
-                lastCard =  currCard;
-                size++;
-            }
-            else requeue.push_back(currCard);
+                lastCard = currCard;
+                sizeOfHand++;
+            } 
 
-            queue.pop();
+            if (sizeOfHand == groupSize) {
+                sizeOfHand = 0;
+                lastCard = -1;
 
-            if (size == groupSize) {
-                size = 0;
+                for (int i : requeue) queue.push(i);
+                requeue.clear();
                 lastCard = -1;
             }
         }
 
-        if (requeue.size() > 0 || size > 0) return false;
+        if (requeue.size() > 0 || sizeOfHand > 1) return false;
 
         return true;
     }
