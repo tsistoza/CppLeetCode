@@ -4,15 +4,15 @@
 #include <vector>
 #include <algorithm>
 
-using std::cout, std::endl, std::string, std::vector, std::max;
+using std::cout, std::endl, std::string, std::vector, std::max, std::min;
 
-static string s = "0100";
+static string s = "00100111011";
 
 namespace Solution {
     class Program {
         private:
             void prettyPrint(vector<int>& len);
-            int sumRest(vector<int>& len, int index);
+            int stateMachine(int type, int condition);
         public:
             int maxActiveSectionsAfterTrade(string s);
     };
@@ -24,52 +24,63 @@ namespace Solution {
         return;
     }
 
-    int Program::sumRest(vector<int>& len, int index) {
-        int sum = 0;
-        for (int i=0; i<len.size(); i+=2) {
-            if (i == index) continue;
-            if (i == len.size()-1 || i == 0) {
-                sum += len[i]-1;
-                continue;
-            }
-            sum += len[i];
+    int Program::stateMachine(int type, int condition) {
+        int currType = type;
+        switch (type) {
+            case 0: if (condition == (int)'0') currType++;
+                    if (condition == (int)'2') currType=5;
+                break;
+            case 1: if (condition == (int)'1') currType++;
+                break;
+            case 2: if (condition == (int)'0') currType++;
+                    if (condition == (int)'2') currType=5;
+                break;
+            case 3: if (condition == (int)'1' || condition == (int)'2') currType++;
+                break;
+            case 4: if (condition == (int)'0') currType--;
+                    else if (condition == (int)'1') currType=2;
+                    else if (condition == (int)'2') currType++;
+                break;
         }
-        return sum;
+
+        return currType;
     }
 
     int Program::maxActiveSectionsAfterTrade(string s) {
-        char lastSection = '1';
-        vector<int> len;
-        for (int i=0, length=1; i<s.size(); i++, length++) {
-            if (s[i] != lastSection) {
-                lastSection = s[i];
-                len.push_back(length);
-                length = 0;
-                continue;
+        s.insert(0, "1");
+        s += "12";
+
+        int numOnes = 0, currMax = INT_MIN;
+        int length1 = 0, length2 = 0, length3 = 0;
+        int type = 0;
+        for (int i=0; i<s.size(); i++) {
+            cout << "type = " << type << ", currChar = " << s[i] << endl;
+            switch (type) {
+                case 0: numOnes++;
+                    break;
+                case 1: length1++;
+                    break;
+                case 2: length2++;
+                        numOnes++;
+                    break;
+                case 3: length3++;
+                    break;
+                case 4: currMax = max(currMax, length1+length3);
+                        length1 = length3;
+                        length2 = 1;
+                        length3 = 0;
+                        numOnes++;
+                    break;
+                default:
+                    break;
             }
 
-            if (i == s.size()-1)
-                len.push_back(length+1);
-        }
-        len.push_back(1);
-
-        //prettyPrint(len);
-
-        int ans = INT_MIN;
-        for (int i=2, sum=0; i<len.size(); i+=2) {
-            if (i+1>=len.size()) continue;
-            int currAns = len[i-1] + len[i+1] + len[i];
-            currAns += sumRest(len, i);
-            ans = max(ans, currAns);
+            if (s.size() == i) break;
+            type = stateMachine(type, (int)s[i + 1]);
         }
 
-        // no trade
-        int sum=0;
-        for (int i=2; i<len.size(); i+=2)
-            sum += len[i];
-
-        ans = max(ans, sum);
-        return ans;
+        cout << "currMax = " << currMax << ", numOnes = " << numOnes << endl;
+        return (currMax > INT_MIN) ? (currMax+numOnes-2) : numOnes-2;
     }
 }
 
