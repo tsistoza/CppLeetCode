@@ -37,35 +37,35 @@ namespace Solution {
         int m = INT_MIN, n = nums.size();
         for (int num : nums) 
             if (m < num) m = num;
-        vector<vector<vector<int>>> dp(n + 1, vector<vector<int>>(m + 1, vector<int>(m + 1, 0)));
-        dp[0][0][0] = 1;
+        vector<vector<int>> prevDp (m + 1, vector<int>(m + 1, 0));
+        prevDp[0][0] = 1;
         for (int i=0; i<n; i++) {
+            vector<vector<int>> nextDp(m+1, vector<int>(m+1, 0));
             for (int j=0; j<=m; j++) {
                 int newGcd1 = 0;
-
+                
                 if (j > nums[i]) newGcd1 = gcd(nums[i], j);
                 else newGcd1 = gcd(j, nums[i]);
 
                 for (int k=0; k<=m; k++) {
 
-                    if (dp[i][j][k] == 0) continue;
-
+                    if (prevDp[j][k] == 0) continue;
+                    
                     int newGcd2 = 0;
                     if (k > nums[i]) newGcd2 = gcd(nums[i], k);
                     else newGcd2 = gcd(k, nums[i]);
 
-                    //cout << "i = " << i << ", j = " << j << ", k = " << k << endl;
-                    //cout << "j' = " << newGcd1 << ", k' = " << newGcd2 << endl;
-                    dp[i+1][j][k] = (dp[i+1][j][k] + dp[i][j][k]) % mod;
-                    dp[i+1][newGcd1][k] = (dp[i+1][newGcd1][k] + dp[i][j][k]) % mod;
-                    dp[i+1][j][newGcd2] = (dp[i+1][j][newGcd2] + dp[i][j][k]) % mod;
+                    nextDp[j][k] = (nextDp[j][k] + prevDp[j][k]) % mod;
+                    nextDp[newGcd1][k] = (nextDp[newGcd1][k] + prevDp[j][k]) % mod;
+                    nextDp[j][newGcd2] = (nextDp[j][newGcd2] + prevDp[j][k]) % mod;
                 }
             }
+            prevDp = nextDp;
         }
 
         int ans = 0;
         for (int j=1; j<=m; j++)
-            ans = (ans + dp[n][j][j]) % mod;
+            ans = (ans + prevDp[j][j]) % mod;
 
         return ans;
     }
