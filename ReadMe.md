@@ -201,7 +201,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 3442 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MaxDiffFreq.cpp) |
 | 3471 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/LargestMissingInteger.cpp) |
 | 3499 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MaxActiveSectionWithTradeI.cpp) |
-| 3501 | [Link]() |
+| 3501 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MaxActiveSessionWithTradeII.cpp) |
 | 3512 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinOpsToDivisible.cpp) |
 | 3524 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/FindXValueI.cpp) |
 | 3525 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/FindXValueII.cpp) |
