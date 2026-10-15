@@ -216,6 +216,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 3689 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SubarrayValueI.cpp) |
 | 3699 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/NumberZigZagArraysI.cpp) |
 | 3718 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/SmallestMissingMultipleOfK.cpp) |
+| 3727 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MaxAlternatingSumSquares.cpp) |
 | 3731 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/FindMissingElement.cpp) |
 | 3754 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ConcatenateNonZeroDigitsI.cpp) |
 | 3870 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountCommasInRange.cpp) |
