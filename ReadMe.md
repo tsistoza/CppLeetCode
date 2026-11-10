@@ -99,6 +99,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 1574 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/RemoveSubarraySort.cpp) |
 | 1577 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/NumTriplets.cpp) |
 | 1578 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MinRopeColor.cpp) |
+| 1606 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ServerRequests.cpp) |
 | 1608 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/ArrayGtXLt.cpp) |
 | 1639 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/numWaysFrom.cpp) |
 | 1695 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/MaxErasureValue.cpp) |
