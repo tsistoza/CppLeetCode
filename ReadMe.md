@@ -129,6 +129,7 @@ Decided to add different variants of ways to solve problems, since there are goi
 | 2200 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/KDistantIndices.cpp) |
 | 2125 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/NumLaserBeams.cpp) |
 | 2231 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/DigitSwap.cpp) |
+| 2243 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/DigitSumString.cpp) |
 | 2257 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountUnguarded.cpp) |
 | 2276 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountDigitIntervals.cpp) |
 | 2302 | [Link](https://github.com/tsistoza/CppLeetCode/blob/main/CountSubarrayLtK.cpp) |
