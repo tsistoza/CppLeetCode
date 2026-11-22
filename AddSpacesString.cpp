@@ -20,13 +20,18 @@ namespace Solution {
             string addSpaces(string s, vector<int>& spaces);
     };
     string Program::addSpaces(string s, vector<int>& spaces) {
-        int index = 0;
-        string result = s;
-        for (int i : spaces) {
-            result.insert(result.begin()+i+index, ' ');
-            index++;
+        int startSubStr = 0;
+        string currStr;
+        for (int i=0; i<spaces.size(); i++) {
+            for (int j=startSubStr; j<spaces[i]; j++)
+                currStr.push_back(s[j]);
+            currStr.push_back(' ');
+            startSubStr = spaces[i];
         }
-        return result;
+
+        for (int i=startSubStr; i<s.size(); i++)
+            currStr.push_back(s[i]);
+        return currStr;
     }
 }
 
