@@ -15,14 +15,10 @@ namespace Solution {
 
     int Program::numberOfAlternatingGroups(vector<int>& colors) {
         int count = 0;
+        int n = colors.size();
         for (int i=0; i<colors.size(); i++) {
-            int left, right;
-            
-            if (i==0) left = colors.size()-1;
-            else left = i-1;
-            if (i==colors.size()-1) right = 0;
-            else right = i+1;
-
+            int left = (i+n-1) % n;
+            int right = (i+1) % n;
             if (colors[left] != colors[i] && colors[right] != colors[i]) count++;
         }
         return count;
